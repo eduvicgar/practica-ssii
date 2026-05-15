@@ -1,0 +1,34 @@
+A. El Agente Colector (GUI_Agent)
+
+Espera mensajes de otros agentes y escucha los mensajes
+Filtrar: Solo acepta mensajes que tengan la ontología 'fake_news_ontology'. Aquí se puede cambiar
+Persistencia: Cuando recibe un veredicto (noticia real o falsa), lo añade a una lista y lo guarda físicamente en el archivo JSON.
+
+B. El Agente Simulador (MockSenderAgent) Aquí se cambia por el agente detector de noticias falsas (de vuestro modelo)
+Este agente simula el comportamiento de un motor de búsqueda o un detector de IA:
+Usa un comportamiento temporal (SendDataBehaviour) que se ejecuta cada 5 segundos.
+Generación aleatoria: Crea noticias ficticias con títulos, fuentes (Twitter, Facebook, etc.) y un nivel de confianza aleatorio.
+Comunicación: Envía esta información al GUI_Agent mediante un mensaje ACLMessage de tipo INFORM (estándar FIPA).
+
+La orquestación se puede hacer en agentes en paralelo que leen del Agente Simulador y escriben en el json de forma ordenada.
+
+2. La Interfaz Gráfica (render_gui)
+Esta sección utiliza Streamlit para crear un dashboard profesional que se actualiza en tiempo real.
+Métricas en tiempo real: Muestra el total de noticias, cuántas son falsas y cuántas reales con indicadores de porcentaje.
+Visualizaciones:
+
+Gráfico de Donut (Altair): Muestra la proporción visual entre noticias reales y falsas.
+Histograma de Confianza: Muestra qué tan seguro está el "modelo" de sus predicciones.
+Tabla de Datos: Una vista detallada de las últimas noticias procesadas, incluyendo una barra de progreso para el nivel de confianza.
+
+3. Lógica de Ejecución (El punto de entrada)
+El bloque if __name__ == '__main__': contiene una lógica inteligente para detectar cómo se está ejecutando el script:
+Si lo ejecutas con streamlit run: El script detecta el contexto de Streamlit y lanza solo la interfaz gráfica (render_gui).
+Si lo ejecutas con pade start-runtime: El script inicia el entorno de agentes, crea el Agente Colector y el Agente Simulador, y los pone a trabajar en red.
+
+4. Flujo de Datos
+Para que el sistema funcione completo, los datos siguen este camino:
+Agente Simulador → Genera noticia aleatoria.
+Mensaje ACL → Viaja por la red PADE hacia el Agente Colector.
+Agente Colector → Escribe el dato en fake_news_data.json.
+Streamlit → Lee el archivo JSON y refresca los gráficos automáticamente.

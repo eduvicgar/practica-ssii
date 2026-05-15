@@ -1,0 +1,11 @@
+timestamp,agent_id,session_id,name,state
+2026-05-15T09:03:22.062556,sniffer@localhost:8001,20260515_090317,sniffer@localhost:8001,Active
+2026-05-15T09:07:53.209643,sniffer@localhost:8001,20260515_090748,sniffer@localhost:8001,Active
+2026-05-15T09:08:09.915744,gui_agent_2000@localhost:2000,20260515_090748,gui_agent_2000@localhost:2000,Active
+2026-05-15T09:08:09.942366,mock_agent_3000@localhost:3000,20260515_090748,mock_agent_3000@localhost:3000,Active
+2026-05-15T09:21:45.558111,sniffer@localhost:8001,20260515_092141,sniffer@localhost:8001,Active
+2026-05-15T09:21:56.072273,gui_agent_2000@localhost:2000,20260515_092141,gui_agent_2000@localhost:2000,Active
+2026-05-15T09:21:56.097155,mock_agent_3000@localhost:3000,20260515_092141,mock_agent_3000@localhost:3000,Active
+2026-05-15T09:23:44.587874,sniffer@localhost:8001,20260515_092341,sniffer@localhost:8001,Active
+2026-05-15T09:23:54.877778,gui_agent_2000@localhost:2000,20260515_092341,gui_agent_2000@localhost:2000,Active
+2026-05-15T09:23:54.903152,mock_agent_3000@localhost:3000,20260515_092341,mock_agent_3000@localhost:3000,Active

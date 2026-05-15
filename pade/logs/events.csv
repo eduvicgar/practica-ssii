@@ -1,0 +1,10 @@
+timestamp,event_type,agent_id,data
+2026-05-15T08:53:14.358376,runtime_started,,"{'agent_files': ('agent_gui.py',), 'num': 1, 'port': 2000, 'secure': False, 'detailed': False, 'session': {'username': 'pade_user', 'email': 'pade_user@pade.com', 'password': '12345'}, 'pade_ams': {'launch': True, 'host': 'localhost', 'port': 8000, 'debug': False}, 'pade_sniffer': {'active': True, 'host': 'localhost', 'port': 8001, 'debug': False}, 'runtime_session_id': '20260515_085314'}"
+2026-05-15T08:53:17.029270,ams_initialized,,"{'host': 'localhost', 'port': 8000, 'session_id': '20260515_085314'}"
+2026-05-15T08:53:17.059842,ams_service_started,,"{'host': 'localhost', 'port': 8000, 'session_id': '20260515_085314'}"
+2026-05-15T08:53:18.923606,sniffer_initialized,,"{'host': 'localhost', 'port': 8001, 'timestamp': '2026-05-15T08:53:18.915615', 'session_id': '20260515_085314'}"
+2026-05-15T08:53:18.933568,sniffer_cli_started,,"{'port': 8001, 'debug': False, 'command': '/mnt/host/c/Users/josej/Documents/Universidad/TERCER_AÑO/Sistemas_Inteligentes/practica-ssii/pade/pade/core/sniffer.py 8001', 'session_id': '20260515_085314'}"
+2026-05-15T08:53:27.328617,agent_connection_verified,sniffer@localhost:8001,{'timestamp': '2026-05-15T08:53:27.319419'}
+2026-05-15T08:53:37.539294,agent_connection_verified,sniffer@localhost:8001,{'timestamp': '2026-05-15T08:53:37.531086'}
+2026-05-15T08:53:47.267469,agent_connection_verified,sniffer@localhost:8001,{'timestamp': '2026-05-15T08:53:47.258853'}
+2026-05-15T08:53:57.510248,agent_connection_verified,sniffer@localhost:8001,{'timestamp': '2026-05-15T08:53:57.501561'}

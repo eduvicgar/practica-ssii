@@ -1,0 +1,1801 @@
+[
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "El Mundo",
+        "is_fake": true,
+        "confidence": 0.72,
+        "timestamp": "2026-05-15T09:08:16.910447"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "Twitter",
+        "is_fake": true,
+        "confidence": 0.84,
+        "timestamp": "2026-05-15T09:08:21.911322"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "New York Times",
+        "is_fake": true,
+        "confidence": 0.79,
+        "timestamp": "2026-05-15T09:08:26.917163"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "Twitter",
+        "is_fake": false,
+        "confidence": 0.75,
+        "timestamp": "2026-05-15T09:08:31.917580"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "Twitter",
+        "is_fake": false,
+        "confidence": 0.75,
+        "timestamp": "2026-05-15T09:08:36.923312"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "Facebook",
+        "is_fake": true,
+        "confidence": 0.8,
+        "timestamp": "2026-05-15T09:08:41.923519"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "WhatsApp",
+        "is_fake": true,
+        "confidence": 0.85,
+        "timestamp": "2026-05-15T09:08:46.926529"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "WhatsApp",
+        "is_fake": false,
+        "confidence": 0.92,
+        "timestamp": "2026-05-15T09:08:51.926857"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "WhatsApp",
+        "is_fake": false,
+        "confidence": 0.73,
+        "timestamp": "2026-05-15T09:08:56.932009"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "Facebook",
+        "is_fake": true,
+        "confidence": 0.79,
+        "timestamp": "2026-05-15T09:09:01.932598"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "Twitter",
+        "is_fake": true,
+        "confidence": 0.89,
+        "timestamp": "2026-05-15T09:09:06.937481"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "Twitter",
+        "is_fake": true,
+        "confidence": 0.8,
+        "timestamp": "2026-05-15T09:09:11.937743"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "El Mundo",
+        "is_fake": true,
+        "confidence": 0.95,
+        "timestamp": "2026-05-15T09:09:16.943299"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "Facebook",
+        "is_fake": true,
+        "confidence": 0.93,
+        "timestamp": "2026-05-15T09:09:21.943746"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "WhatsApp",
+        "is_fake": false,
+        "confidence": 0.79,
+        "timestamp": "2026-05-15T09:09:26.948053"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "El Mundo",
+        "is_fake": true,
+        "confidence": 0.73,
+        "timestamp": "2026-05-15T09:09:31.948662"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "New York Times",
+        "is_fake": false,
+        "confidence": 0.99,
+        "timestamp": "2026-05-15T09:09:36.952935"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "El Mundo",
+        "is_fake": true,
+        "confidence": 0.8,
+        "timestamp": "2026-05-15T09:09:41.953421"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "New York Times",
+        "is_fake": false,
+        "confidence": 0.83,
+        "timestamp": "2026-05-15T09:09:46.958234"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "Facebook",
+        "is_fake": true,
+        "confidence": 0.91,
+        "timestamp": "2026-05-15T09:09:51.958780"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "El Mundo",
+        "is_fake": true,
+        "confidence": 0.91,
+        "timestamp": "2026-05-15T09:09:56.963887"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "New York Times",
+        "is_fake": true,
+        "confidence": 0.75,
+        "timestamp": "2026-05-15T09:10:01.964727"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "New York Times",
+        "is_fake": true,
+        "confidence": 0.82,
+        "timestamp": "2026-05-15T09:10:06.968945"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "New York Times",
+        "is_fake": false,
+        "confidence": 0.77,
+        "timestamp": "2026-05-15T09:10:11.969705"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "WhatsApp",
+        "is_fake": true,
+        "confidence": 0.83,
+        "timestamp": "2026-05-15T09:10:16.975305"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "Facebook",
+        "is_fake": true,
+        "confidence": 0.74,
+        "timestamp": "2026-05-15T09:10:21.975979"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "El Mundo",
+        "is_fake": true,
+        "confidence": 0.82,
+        "timestamp": "2026-05-15T09:10:26.980189"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "WhatsApp",
+        "is_fake": false,
+        "confidence": 0.94,
+        "timestamp": "2026-05-15T09:10:31.980792"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "New York Times",
+        "is_fake": true,
+        "confidence": 0.89,
+        "timestamp": "2026-05-15T09:10:36.986308"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "WhatsApp",
+        "is_fake": true,
+        "confidence": 0.97,
+        "timestamp": "2026-05-15T09:10:41.987340"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "Facebook",
+        "is_fake": false,
+        "confidence": 0.84,
+        "timestamp": "2026-05-15T09:10:46.992644"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "Twitter",
+        "is_fake": true,
+        "confidence": 0.77,
+        "timestamp": "2026-05-15T09:10:51.993341"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "WhatsApp",
+        "is_fake": true,
+        "confidence": 0.92,
+        "timestamp": "2026-05-15T09:10:56.997256"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "Twitter",
+        "is_fake": false,
+        "confidence": 0.96,
+        "timestamp": "2026-05-15T09:11:01.997755"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "Facebook",
+        "is_fake": false,
+        "confidence": 0.72,
+        "timestamp": "2026-05-15T09:11:07.003275"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "New York Times",
+        "is_fake": true,
+        "confidence": 0.76,
+        "timestamp": "2026-05-15T09:11:12.003775"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "Twitter",
+        "is_fake": false,
+        "confidence": 0.97,
+        "timestamp": "2026-05-15T09:11:17.008383"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "Facebook",
+        "is_fake": true,
+        "confidence": 0.74,
+        "timestamp": "2026-05-15T09:11:22.008906"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "New York Times",
+        "is_fake": false,
+        "confidence": 0.75,
+        "timestamp": "2026-05-15T09:11:27.013228"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "Facebook",
+        "is_fake": true,
+        "confidence": 0.79,
+        "timestamp": "2026-05-15T09:11:32.013916"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "New York Times",
+        "is_fake": false,
+        "confidence": 0.91,
+        "timestamp": "2026-05-15T09:11:37.018742"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "Facebook",
+        "is_fake": true,
+        "confidence": 0.78,
+        "timestamp": "2026-05-15T09:11:42.019344"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "El Mundo",
+        "is_fake": true,
+        "confidence": 0.72,
+        "timestamp": "2026-05-15T09:11:47.020948"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "WhatsApp",
+        "is_fake": false,
+        "confidence": 0.91,
+        "timestamp": "2026-05-15T09:11:52.021825"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "New York Times",
+        "is_fake": false,
+        "confidence": 0.74,
+        "timestamp": "2026-05-15T09:11:57.027141"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "Twitter",
+        "is_fake": false,
+        "confidence": 0.73,
+        "timestamp": "2026-05-15T09:12:02.027807"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "El Mundo",
+        "is_fake": true,
+        "confidence": 0.82,
+        "timestamp": "2026-05-15T09:12:07.033569"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "WhatsApp",
+        "is_fake": true,
+        "confidence": 0.81,
+        "timestamp": "2026-05-15T09:12:12.034521"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "Facebook",
+        "is_fake": true,
+        "confidence": 0.81,
+        "timestamp": "2026-05-15T09:12:17.036858"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "New York Times",
+        "is_fake": true,
+        "confidence": 0.7,
+        "timestamp": "2026-05-15T09:12:22.037912"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "Twitter",
+        "is_fake": false,
+        "confidence": 0.75,
+        "timestamp": "2026-05-15T09:12:27.043577"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "Facebook",
+        "is_fake": true,
+        "confidence": 0.86,
+        "timestamp": "2026-05-15T09:12:32.044326"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "El Mundo",
+        "is_fake": true,
+        "confidence": 0.98,
+        "timestamp": "2026-05-15T09:12:37.050089"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "Twitter",
+        "is_fake": false,
+        "confidence": 0.87,
+        "timestamp": "2026-05-15T09:12:42.051011"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "WhatsApp",
+        "is_fake": false,
+        "confidence": 0.92,
+        "timestamp": "2026-05-15T09:12:47.053031"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "Twitter",
+        "is_fake": true,
+        "confidence": 0.7,
+        "timestamp": "2026-05-15T09:12:52.054117"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "Twitter",
+        "is_fake": true,
+        "confidence": 0.75,
+        "timestamp": "2026-05-15T09:12:57.058891"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "New York Times",
+        "is_fake": false,
+        "confidence": 0.89,
+        "timestamp": "2026-05-15T09:13:02.059469"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "WhatsApp",
+        "is_fake": true,
+        "confidence": 0.93,
+        "timestamp": "2026-05-15T09:13:07.065151"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "New York Times",
+        "is_fake": true,
+        "confidence": 0.8,
+        "timestamp": "2026-05-15T09:13:12.065345"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "El Mundo",
+        "is_fake": false,
+        "confidence": 0.72,
+        "timestamp": "2026-05-15T09:13:17.070719"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "Twitter",
+        "is_fake": false,
+        "confidence": 0.8,
+        "timestamp": "2026-05-15T09:13:22.071678"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "Twitter",
+        "is_fake": false,
+        "confidence": 0.88,
+        "timestamp": "2026-05-15T09:13:27.075503"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "Twitter",
+        "is_fake": false,
+        "confidence": 0.95,
+        "timestamp": "2026-05-15T09:13:32.075816"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "Twitter",
+        "is_fake": false,
+        "confidence": 0.85,
+        "timestamp": "2026-05-15T09:13:37.080999"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "Facebook",
+        "is_fake": false,
+        "confidence": 0.76,
+        "timestamp": "2026-05-15T09:13:42.081836"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "Facebook",
+        "is_fake": true,
+        "confidence": 0.89,
+        "timestamp": "2026-05-15T09:13:47.087007"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "New York Times",
+        "is_fake": false,
+        "confidence": 0.78,
+        "timestamp": "2026-05-15T09:13:52.087802"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "WhatsApp",
+        "is_fake": false,
+        "confidence": 0.96,
+        "timestamp": "2026-05-15T09:13:57.091510"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "Twitter",
+        "is_fake": false,
+        "confidence": 0.87,
+        "timestamp": "2026-05-15T09:14:02.091781"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "El Mundo",
+        "is_fake": true,
+        "confidence": 0.83,
+        "timestamp": "2026-05-15T09:14:07.096678"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "Facebook",
+        "is_fake": false,
+        "confidence": 0.77,
+        "timestamp": "2026-05-15T09:14:12.097231"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "New York Times",
+        "is_fake": true,
+        "confidence": 0.79,
+        "timestamp": "2026-05-15T09:14:17.102118"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "WhatsApp",
+        "is_fake": true,
+        "confidence": 0.93,
+        "timestamp": "2026-05-15T09:14:22.102728"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "New York Times",
+        "is_fake": true,
+        "confidence": 0.71,
+        "timestamp": "2026-05-15T09:14:27.107872"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "El Mundo",
+        "is_fake": false,
+        "confidence": 0.91,
+        "timestamp": "2026-05-15T09:14:32.108492"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "Facebook",
+        "is_fake": false,
+        "confidence": 0.7,
+        "timestamp": "2026-05-15T09:14:37.112606"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "Facebook",
+        "is_fake": true,
+        "confidence": 0.8,
+        "timestamp": "2026-05-15T09:14:42.113329"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "Twitter",
+        "is_fake": true,
+        "confidence": 0.89,
+        "timestamp": "2026-05-15T09:14:47.117664"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "WhatsApp",
+        "is_fake": true,
+        "confidence": 0.76,
+        "timestamp": "2026-05-15T09:14:52.118080"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "New York Times",
+        "is_fake": true,
+        "confidence": 0.83,
+        "timestamp": "2026-05-15T09:14:57.123811"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "El Mundo",
+        "is_fake": true,
+        "confidence": 0.74,
+        "timestamp": "2026-05-15T09:15:02.124893"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "Twitter",
+        "is_fake": true,
+        "confidence": 0.95,
+        "timestamp": "2026-05-15T09:15:07.128690"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "New York Times",
+        "is_fake": true,
+        "confidence": 0.88,
+        "timestamp": "2026-05-15T09:15:12.129623"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "New York Times",
+        "is_fake": true,
+        "confidence": 0.79,
+        "timestamp": "2026-05-15T09:15:17.134660"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "WhatsApp",
+        "is_fake": false,
+        "confidence": 0.79,
+        "timestamp": "2026-05-15T09:15:22.134889"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "Facebook",
+        "is_fake": true,
+        "confidence": 0.79,
+        "timestamp": "2026-05-15T09:15:27.140270"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "Facebook",
+        "is_fake": true,
+        "confidence": 0.79,
+        "timestamp": "2026-05-15T09:15:32.141271"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "Facebook",
+        "is_fake": false,
+        "confidence": 0.95,
+        "timestamp": "2026-05-15T09:15:37.145181"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "Facebook",
+        "is_fake": false,
+        "confidence": 0.84,
+        "timestamp": "2026-05-15T09:15:42.146197"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "WhatsApp",
+        "is_fake": false,
+        "confidence": 0.95,
+        "timestamp": "2026-05-15T09:15:47.150647"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "Facebook",
+        "is_fake": false,
+        "confidence": 0.97,
+        "timestamp": "2026-05-15T09:15:52.150877"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "El Mundo",
+        "is_fake": false,
+        "confidence": 0.78,
+        "timestamp": "2026-05-15T09:15:57.156363"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "Facebook",
+        "is_fake": true,
+        "confidence": 0.94,
+        "timestamp": "2026-05-15T09:16:02.156559"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "El Mundo",
+        "is_fake": false,
+        "confidence": 0.77,
+        "timestamp": "2026-05-15T09:16:07.161821"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "New York Times",
+        "is_fake": false,
+        "confidence": 0.93,
+        "timestamp": "2026-05-15T09:16:12.162868"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "Facebook",
+        "is_fake": true,
+        "confidence": 0.99,
+        "timestamp": "2026-05-15T09:16:17.167889"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "Facebook",
+        "is_fake": true,
+        "confidence": 0.95,
+        "timestamp": "2026-05-15T09:16:22.168943"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "Twitter",
+        "is_fake": true,
+        "confidence": 0.79,
+        "timestamp": "2026-05-15T09:16:27.172681"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "Facebook",
+        "is_fake": false,
+        "confidence": 0.72,
+        "timestamp": "2026-05-15T09:16:32.173452"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "Facebook",
+        "is_fake": false,
+        "confidence": 0.91,
+        "timestamp": "2026-05-15T09:16:37.178216"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "Twitter",
+        "is_fake": false,
+        "confidence": 0.91,
+        "timestamp": "2026-05-15T09:16:42.179281"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "El Mundo",
+        "is_fake": true,
+        "confidence": 0.96,
+        "timestamp": "2026-05-15T09:16:47.183867"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "Twitter",
+        "is_fake": true,
+        "confidence": 0.76,
+        "timestamp": "2026-05-15T09:16:52.184295"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "El Mundo",
+        "is_fake": true,
+        "confidence": 0.97,
+        "timestamp": "2026-05-15T09:16:57.188867"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "New York Times",
+        "is_fake": true,
+        "confidence": 0.73,
+        "timestamp": "2026-05-15T09:17:02.189461"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "WhatsApp",
+        "is_fake": false,
+        "confidence": 0.99,
+        "timestamp": "2026-05-15T09:17:07.192156"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "El Mundo",
+        "is_fake": false,
+        "confidence": 0.99,
+        "timestamp": "2026-05-15T09:17:12.193013"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "Twitter",
+        "is_fake": false,
+        "confidence": 0.77,
+        "timestamp": "2026-05-15T09:17:17.197919"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "Facebook",
+        "is_fake": true,
+        "confidence": 0.81,
+        "timestamp": "2026-05-15T09:17:22.198990"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "El Mundo",
+        "is_fake": true,
+        "confidence": 0.89,
+        "timestamp": "2026-05-15T09:17:27.203996"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "New York Times",
+        "is_fake": true,
+        "confidence": 0.75,
+        "timestamp": "2026-05-15T09:17:32.204449"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "Facebook",
+        "is_fake": true,
+        "confidence": 0.98,
+        "timestamp": "2026-05-15T09:17:37.210333"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "Facebook",
+        "is_fake": false,
+        "confidence": 0.96,
+        "timestamp": "2026-05-15T09:17:42.210728"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "WhatsApp",
+        "is_fake": true,
+        "confidence": 0.79,
+        "timestamp": "2026-05-15T09:17:47.213596"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "New York Times",
+        "is_fake": false,
+        "confidence": 0.96,
+        "timestamp": "2026-05-15T09:17:52.214030"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "WhatsApp",
+        "is_fake": true,
+        "confidence": 0.93,
+        "timestamp": "2026-05-15T09:17:57.219333"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "New York Times",
+        "is_fake": false,
+        "confidence": 0.94,
+        "timestamp": "2026-05-15T09:18:02.220278"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "Facebook",
+        "is_fake": false,
+        "confidence": 0.71,
+        "timestamp": "2026-05-15T09:18:07.224160"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "El Mundo",
+        "is_fake": true,
+        "confidence": 0.86,
+        "timestamp": "2026-05-15T09:18:12.224379"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "El Mundo",
+        "is_fake": true,
+        "confidence": 0.95,
+        "timestamp": "2026-05-15T09:18:17.229473"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "Twitter",
+        "is_fake": true,
+        "confidence": 0.74,
+        "timestamp": "2026-05-15T09:18:22.230272"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "WhatsApp",
+        "is_fake": false,
+        "confidence": 0.81,
+        "timestamp": "2026-05-15T09:18:27.235742"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "New York Times",
+        "is_fake": false,
+        "confidence": 0.81,
+        "timestamp": "2026-05-15T09:18:32.235872"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "Twitter",
+        "is_fake": true,
+        "confidence": 0.98,
+        "timestamp": "2026-05-15T09:18:37.239835"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "Twitter",
+        "is_fake": true,
+        "confidence": 0.79,
+        "timestamp": "2026-05-15T09:18:42.240246"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "New York Times",
+        "is_fake": false,
+        "confidence": 0.78,
+        "timestamp": "2026-05-15T09:18:47.245466"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "New York Times",
+        "is_fake": false,
+        "confidence": 0.83,
+        "timestamp": "2026-05-15T09:18:52.245755"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "WhatsApp",
+        "is_fake": false,
+        "confidence": 0.74,
+        "timestamp": "2026-05-15T09:18:57.250679"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "Facebook",
+        "is_fake": true,
+        "confidence": 0.82,
+        "timestamp": "2026-05-15T09:19:02.250841"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "WhatsApp",
+        "is_fake": false,
+        "confidence": 0.78,
+        "timestamp": "2026-05-15T09:19:07.255555"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "Facebook",
+        "is_fake": false,
+        "confidence": 0.87,
+        "timestamp": "2026-05-15T09:19:12.256119"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "El Mundo",
+        "is_fake": false,
+        "confidence": 0.76,
+        "timestamp": "2026-05-15T09:19:17.261506"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "WhatsApp",
+        "is_fake": true,
+        "confidence": 0.97,
+        "timestamp": "2026-05-15T09:19:22.262560"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "WhatsApp",
+        "is_fake": true,
+        "confidence": 0.88,
+        "timestamp": "2026-05-15T09:19:27.267775"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "New York Times",
+        "is_fake": false,
+        "confidence": 0.72,
+        "timestamp": "2026-05-15T09:19:32.268486"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "WhatsApp",
+        "is_fake": true,
+        "confidence": 0.84,
+        "timestamp": "2026-05-15T09:19:37.272157"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "New York Times",
+        "is_fake": false,
+        "confidence": 0.87,
+        "timestamp": "2026-05-15T09:19:42.272958"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "New York Times",
+        "is_fake": true,
+        "confidence": 0.99,
+        "timestamp": "2026-05-15T09:19:47.277511"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "WhatsApp",
+        "is_fake": true,
+        "confidence": 0.85,
+        "timestamp": "2026-05-15T09:19:52.277934"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "Facebook",
+        "is_fake": true,
+        "confidence": 0.91,
+        "timestamp": "2026-05-15T09:19:57.283710"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "Facebook",
+        "is_fake": false,
+        "confidence": 0.9,
+        "timestamp": "2026-05-15T09:20:02.284154"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "New York Times",
+        "is_fake": false,
+        "confidence": 0.81,
+        "timestamp": "2026-05-15T09:20:07.288127"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "El Mundo",
+        "is_fake": false,
+        "confidence": 0.71,
+        "timestamp": "2026-05-15T09:20:12.289070"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "WhatsApp",
+        "is_fake": false,
+        "confidence": 0.98,
+        "timestamp": "2026-05-15T09:20:17.294417"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "El Mundo",
+        "is_fake": true,
+        "confidence": 0.72,
+        "timestamp": "2026-05-15T09:20:22.295178"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "El Mundo",
+        "is_fake": true,
+        "confidence": 0.93,
+        "timestamp": "2026-05-15T09:20:27.300827"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "El Mundo",
+        "is_fake": false,
+        "confidence": 0.96,
+        "timestamp": "2026-05-15T09:20:32.301845"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "New York Times",
+        "is_fake": true,
+        "confidence": 0.75,
+        "timestamp": "2026-05-15T09:20:37.304654"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "New York Times",
+        "is_fake": true,
+        "confidence": 0.73,
+        "timestamp": "2026-05-15T09:20:42.304872"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "Twitter",
+        "is_fake": false,
+        "confidence": 0.71,
+        "timestamp": "2026-05-15T09:20:47.310605"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "Twitter",
+        "is_fake": false,
+        "confidence": 0.94,
+        "timestamp": "2026-05-15T09:20:52.311279"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "Facebook",
+        "is_fake": true,
+        "confidence": 0.75,
+        "timestamp": "2026-05-15T09:20:57.317140"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "WhatsApp",
+        "is_fake": false,
+        "confidence": 0.79,
+        "timestamp": "2026-05-15T09:21:02.317716"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "WhatsApp",
+        "is_fake": false,
+        "confidence": 0.75,
+        "timestamp": "2026-05-15T09:21:07.320899"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "WhatsApp",
+        "is_fake": true,
+        "confidence": 0.79,
+        "timestamp": "2026-05-15T09:21:12.321512"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "El Mundo",
+        "is_fake": true,
+        "confidence": 0.76,
+        "timestamp": "2026-05-15T09:21:17.327511"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "Facebook",
+        "is_fake": true,
+        "confidence": 0.94,
+        "timestamp": "2026-05-15T09:21:22.327928"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "Twitter",
+        "is_fake": true,
+        "confidence": 0.73,
+        "timestamp": "2026-05-15T09:21:27.333407"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "New York Times",
+        "is_fake": false,
+        "confidence": 0.78,
+        "timestamp": "2026-05-15T09:22:03.066734"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "El Mundo",
+        "is_fake": false,
+        "confidence": 0.97,
+        "timestamp": "2026-05-15T09:22:08.070787"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "Twitter",
+        "is_fake": true,
+        "confidence": 0.85,
+        "timestamp": "2026-05-15T09:22:13.075334"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "WhatsApp",
+        "is_fake": true,
+        "confidence": 0.95,
+        "timestamp": "2026-05-15T09:22:18.079237"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "New York Times",
+        "is_fake": true,
+        "confidence": 0.82,
+        "timestamp": "2026-05-15T09:22:23.084544"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "El Mundo",
+        "is_fake": false,
+        "confidence": 0.7,
+        "timestamp": "2026-05-15T09:22:28.087265"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "Twitter",
+        "is_fake": true,
+        "confidence": 0.83,
+        "timestamp": "2026-05-15T09:22:33.088300"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "Facebook",
+        "is_fake": false,
+        "confidence": 0.87,
+        "timestamp": "2026-05-15T09:22:38.088889"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "Facebook",
+        "is_fake": true,
+        "confidence": 0.93,
+        "timestamp": "2026-05-15T09:22:43.091649"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "Facebook",
+        "is_fake": false,
+        "confidence": 0.9,
+        "timestamp": "2026-05-15T09:22:48.094299"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "Twitter",
+        "is_fake": true,
+        "confidence": 0.77,
+        "timestamp": "2026-05-15T09:22:53.099953"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "New York Times",
+        "is_fake": true,
+        "confidence": 0.85,
+        "timestamp": "2026-05-15T09:22:58.101730"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "New York Times",
+        "is_fake": true,
+        "confidence": 0.74,
+        "timestamp": "2026-05-15T09:23:03.105120"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "New York Times",
+        "is_fake": true,
+        "confidence": 0.86,
+        "timestamp": "2026-05-15T09:23:08.105984"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "WhatsApp",
+        "is_fake": true,
+        "confidence": 0.99,
+        "timestamp": "2026-05-15T09:24:01.873140"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "Facebook",
+        "is_fake": false,
+        "confidence": 0.83,
+        "timestamp": "2026-05-15T09:24:06.877364"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "Facebook",
+        "is_fake": true,
+        "confidence": 0.96,
+        "timestamp": "2026-05-15T09:24:11.883079"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "Twitter",
+        "is_fake": false,
+        "confidence": 0.95,
+        "timestamp": "2026-05-15T09:24:16.886681"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "El Mundo",
+        "is_fake": false,
+        "confidence": 0.83,
+        "timestamp": "2026-05-15T09:24:21.892348"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "WhatsApp",
+        "is_fake": true,
+        "confidence": 0.75,
+        "timestamp": "2026-05-15T09:24:26.894796"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "New York Times",
+        "is_fake": false,
+        "confidence": 0.92,
+        "timestamp": "2026-05-15T09:24:31.895640"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "Facebook",
+        "is_fake": true,
+        "confidence": 0.73,
+        "timestamp": "2026-05-15T09:24:36.895982"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "El Mundo",
+        "is_fake": false,
+        "confidence": 0.83,
+        "timestamp": "2026-05-15T09:24:41.899152"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "WhatsApp",
+        "is_fake": false,
+        "confidence": 0.77,
+        "timestamp": "2026-05-15T09:24:46.900883"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "Facebook",
+        "is_fake": true,
+        "confidence": 0.74,
+        "timestamp": "2026-05-15T09:24:51.906093"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "El Mundo",
+        "is_fake": false,
+        "confidence": 0.8,
+        "timestamp": "2026-05-15T09:24:56.909648"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "WhatsApp",
+        "is_fake": false,
+        "confidence": 0.88,
+        "timestamp": "2026-05-15T09:25:01.911317"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "New York Times",
+        "is_fake": false,
+        "confidence": 0.71,
+        "timestamp": "2026-05-15T09:25:06.912297"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "New York Times",
+        "is_fake": false,
+        "confidence": 0.96,
+        "timestamp": "2026-05-15T09:25:11.915912"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "New York Times",
+        "is_fake": true,
+        "confidence": 0.78,
+        "timestamp": "2026-05-15T09:25:16.916434"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "Twitter",
+        "is_fake": false,
+        "confidence": 0.9,
+        "timestamp": "2026-05-15T09:25:21.922081"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "Twitter",
+        "is_fake": true,
+        "confidence": 0.79,
+        "timestamp": "2026-05-15T09:25:26.923542"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "New York Times",
+        "is_fake": false,
+        "confidence": 0.72,
+        "timestamp": "2026-05-15T09:25:31.927122"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "Twitter",
+        "is_fake": true,
+        "confidence": 0.71,
+        "timestamp": "2026-05-15T09:25:36.927162"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "El Mundo",
+        "is_fake": false,
+        "confidence": 0.9,
+        "timestamp": "2026-05-15T09:25:41.932806"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "Facebook",
+        "is_fake": false,
+        "confidence": 0.73,
+        "timestamp": "2026-05-15T09:25:46.933324"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "WhatsApp",
+        "is_fake": true,
+        "confidence": 0.88,
+        "timestamp": "2026-05-15T09:25:51.938553"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "Twitter",
+        "is_fake": true,
+        "confidence": 0.79,
+        "timestamp": "2026-05-15T09:25:56.939121"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "Facebook",
+        "is_fake": true,
+        "confidence": 0.88,
+        "timestamp": "2026-05-15T09:26:01.943972"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "New York Times",
+        "is_fake": true,
+        "confidence": 0.89,
+        "timestamp": "2026-05-15T09:26:06.944198"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "Twitter",
+        "is_fake": true,
+        "confidence": 0.85,
+        "timestamp": "2026-05-15T09:26:11.949212"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "El Mundo",
+        "is_fake": false,
+        "confidence": 0.91,
+        "timestamp": "2026-05-15T09:26:16.950276"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "Twitter",
+        "is_fake": false,
+        "confidence": 0.75,
+        "timestamp": "2026-05-15T09:26:21.954469"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "WhatsApp",
+        "is_fake": false,
+        "confidence": 0.88,
+        "timestamp": "2026-05-15T09:26:26.955059"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "Twitter",
+        "is_fake": false,
+        "confidence": 0.88,
+        "timestamp": "2026-05-15T09:26:31.960414"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "WhatsApp",
+        "is_fake": true,
+        "confidence": 0.96,
+        "timestamp": "2026-05-15T09:26:36.960511"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "WhatsApp",
+        "is_fake": true,
+        "confidence": 0.79,
+        "timestamp": "2026-05-15T09:26:41.965654"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "New York Times",
+        "is_fake": false,
+        "confidence": 0.88,
+        "timestamp": "2026-05-15T09:26:46.966687"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "WhatsApp",
+        "is_fake": false,
+        "confidence": 0.98,
+        "timestamp": "2026-05-15T09:26:51.970940"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "New York Times",
+        "is_fake": true,
+        "confidence": 0.77,
+        "timestamp": "2026-05-15T09:26:56.971893"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "WhatsApp",
+        "is_fake": false,
+        "confidence": 0.87,
+        "timestamp": "2026-05-15T09:27:01.976187"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "WhatsApp",
+        "is_fake": true,
+        "confidence": 0.86,
+        "timestamp": "2026-05-15T09:27:06.976732"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "Facebook",
+        "is_fake": false,
+        "confidence": 0.84,
+        "timestamp": "2026-05-15T09:27:11.981521"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "El Mundo",
+        "is_fake": true,
+        "confidence": 0.82,
+        "timestamp": "2026-05-15T09:27:16.982393"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "New York Times",
+        "is_fake": true,
+        "confidence": 0.84,
+        "timestamp": "2026-05-15T09:27:21.986424"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "WhatsApp",
+        "is_fake": false,
+        "confidence": 0.89,
+        "timestamp": "2026-05-15T09:27:26.987127"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "Facebook",
+        "is_fake": false,
+        "confidence": 0.82,
+        "timestamp": "2026-05-15T09:27:31.992183"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "New York Times",
+        "is_fake": false,
+        "confidence": 0.98,
+        "timestamp": "2026-05-15T09:27:36.992313"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "WhatsApp",
+        "is_fake": false,
+        "confidence": 0.8,
+        "timestamp": "2026-05-15T09:27:41.997458"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "WhatsApp",
+        "is_fake": false,
+        "confidence": 0.76,
+        "timestamp": "2026-05-15T09:27:46.998047"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "El Mundo",
+        "is_fake": true,
+        "confidence": 0.94,
+        "timestamp": "2026-05-15T09:27:52.002477"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "El Mundo",
+        "is_fake": true,
+        "confidence": 0.9,
+        "timestamp": "2026-05-15T09:27:57.003109"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "New York Times",
+        "is_fake": true,
+        "confidence": 0.74,
+        "timestamp": "2026-05-15T09:28:02.009091"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "WhatsApp",
+        "is_fake": true,
+        "confidence": 0.97,
+        "timestamp": "2026-05-15T09:28:07.010177"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "Twitter",
+        "is_fake": true,
+        "confidence": 0.92,
+        "timestamp": "2026-05-15T09:28:12.010534"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "Facebook",
+        "is_fake": true,
+        "confidence": 0.85,
+        "timestamp": "2026-05-15T09:28:17.013256"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "El Mundo",
+        "is_fake": false,
+        "confidence": 0.92,
+        "timestamp": "2026-05-15T09:28:22.019231"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "Twitter",
+        "is_fake": false,
+        "confidence": 0.95,
+        "timestamp": "2026-05-15T09:28:27.019939"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "New York Times",
+        "is_fake": false,
+        "confidence": 0.96,
+        "timestamp": "2026-05-15T09:28:32.025074"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "Twitter",
+        "is_fake": true,
+        "confidence": 0.81,
+        "timestamp": "2026-05-15T09:28:37.025811"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "Facebook",
+        "is_fake": false,
+        "confidence": 0.98,
+        "timestamp": "2026-05-15T09:28:42.026230"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "Facebook",
+        "is_fake": true,
+        "confidence": 0.8,
+        "timestamp": "2026-05-15T09:28:47.028204"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "WhatsApp",
+        "is_fake": false,
+        "confidence": 0.98,
+        "timestamp": "2026-05-15T09:28:52.033868"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "WhatsApp",
+        "is_fake": false,
+        "confidence": 0.81,
+        "timestamp": "2026-05-15T09:28:57.035128"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "New York Times",
+        "is_fake": true,
+        "confidence": 0.9,
+        "timestamp": "2026-05-15T09:29:02.040256"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "Facebook",
+        "is_fake": true,
+        "confidence": 0.78,
+        "timestamp": "2026-05-15T09:29:07.041759"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "Facebook",
+        "is_fake": true,
+        "confidence": 0.98,
+        "timestamp": "2026-05-15T09:29:12.042993"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "El Mundo",
+        "is_fake": false,
+        "confidence": 0.9,
+        "timestamp": "2026-05-15T09:29:17.043632"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "New York Times",
+        "is_fake": true,
+        "confidence": 0.77,
+        "timestamp": "2026-05-15T09:29:22.049469"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "El Mundo",
+        "is_fake": false,
+        "confidence": 0.82,
+        "timestamp": "2026-05-15T09:29:27.050544"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "Twitter",
+        "is_fake": true,
+        "confidence": 0.97,
+        "timestamp": "2026-05-15T09:29:32.055573"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "New York Times",
+        "is_fake": true,
+        "confidence": 0.75,
+        "timestamp": "2026-05-15T09:29:37.056972"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "El Mundo",
+        "is_fake": true,
+        "confidence": 0.83,
+        "timestamp": "2026-05-15T09:29:42.058859"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "WhatsApp",
+        "is_fake": false,
+        "confidence": 0.89,
+        "timestamp": "2026-05-15T09:29:47.060488"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "WhatsApp",
+        "is_fake": true,
+        "confidence": 0.95,
+        "timestamp": "2026-05-15T09:29:52.065574"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "El Mundo",
+        "is_fake": false,
+        "confidence": 0.97,
+        "timestamp": "2026-05-15T09:29:57.065975"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "New York Times",
+        "is_fake": false,
+        "confidence": 0.92,
+        "timestamp": "2026-05-15T09:30:02.071964"
+    },
+    {
+        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
+        "source": "El Mundo",
+        "is_fake": true,
+        "confidence": 0.75,
+        "timestamp": "2026-05-15T09:30:07.072424"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "Twitter",
+        "is_fake": true,
+        "confidence": 0.78,
+        "timestamp": "2026-05-15T09:30:12.075080"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "WhatsApp",
+        "is_fake": false,
+        "confidence": 0.72,
+        "timestamp": "2026-05-15T09:30:17.076457"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "Facebook",
+        "is_fake": true,
+        "confidence": 0.81,
+        "timestamp": "2026-05-15T09:30:22.081722"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "New York Times",
+        "is_fake": false,
+        "confidence": 0.93,
+        "timestamp": "2026-05-15T09:30:27.082710"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "El Mundo",
+        "is_fake": true,
+        "confidence": 0.82,
+        "timestamp": "2026-05-15T09:30:32.087763"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "Facebook",
+        "is_fake": false,
+        "confidence": 0.9,
+        "timestamp": "2026-05-15T09:30:37.088708"
+    },
+    {
+        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
+        "source": "New York Times",
+        "is_fake": false,
+        "confidence": 0.91,
+        "timestamp": "2026-05-15T09:30:42.092985"
+    },
+    {
+        "title": "Descubren agua en Marte",
+        "source": "Twitter",
+        "is_fake": true,
+        "confidence": 0.84,
+        "timestamp": "2026-05-15T09:30:47.093383"
+    },
+    {
+        "title": "Nueva subida de impuestos anunciada",
+        "source": "WhatsApp",
+        "is_fake": false,
+        "confidence": 0.85,
+        "timestamp": "2026-05-15T09:30:52.098254"
+    },
+    {
+        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
+        "source": "El Mundo",
+        "is_fake": false,
+        "confidence": 0.83,
+        "timestamp": "2026-05-15T09:30:57.099045"
+    }
+]

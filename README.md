@@ -19,3 +19,36 @@ Para activar el entorno, ejecutar en `pade/`:
 ```bash
 source .venv/bin/activate
 ```
+
+## Datos que llegan al agente visualizador
+
+Los datos que llegan al agente visualizador son los siguientes:
+
+- Titulo de la noticia
+- Fuente de la noticia
+- Si es fake o no
+- Probabilidad de que sea fake (confianza)
+- Fecha de la noticia
+
+Los gráficos que se generan son los siguientes:
+
+- Piechart que muestra la distribución de noticias fake y reales.
+- Bar chart que muestra la cantidad de noticias fake y reales por fuente.
+
+Con estos datos se genera gráficos y se almacenan en un archivo JSON: `fake_news_data.json`.
+El GUI_Agent actúa como un puente (Bridge Agent). Gestiona la persistencia de los datos recibidos de la red multiagente para garantizar que no se pierda información durante los ciclos de renderizado de la interfaz de usuario, cumpliendo así con la responsabilidad de visualización del sistema
+
+## Instrucciones para ejecutar el agente de visualización de PADE y verlo en web
+
+Para iniciar el runtime del agente PADE, ejecutar el siguiente comando en el directorio `practica-ssii/`:
+
+```bash
+pade start-runtime agent_gui.py
+```
+
+Para iniciar el dashboard de visualización, ejecutar el siguiente comando en el directorio `practica-ssii/`:
+
+```bash
+streamlit run agent_gui.py
+```
+
