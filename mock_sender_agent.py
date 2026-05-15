@@ -12,16 +12,48 @@ from pade.acl.aid import AID
 
 AGENT_NAME = "classifier_agent"
 
+
 class MockSenderAgent(Agent):
 
-    def __init__(self, aid):
+    def __init__(self, aid, gui_agent=None):
         super().__init__(aid=aid, debug=False)
         self.model = joblib.load("./model/fake_news_model.joblib")
+        self.gui_agent = gui_agent
+
+    def classify_news(self, news):
+        title = str(news.get("title", ""))
+        text = str(news.get("text", ""))
+
+        model_input = title + " " + text
+
+        pred = self.model.predict([model_input])[0]
+
+        if hasattr(self.model, "predict_proba"):
+            confidence = float(max(self.model.predict_proba([model_input])[0]))
+        else:
+            confidence = 0.5
+
+        result = {
+            "id": news.get("id"),
+            "title": title,
+            "source": news.get("source", "unknown"),
+            "is_fake": bool(pred),
+            "confidence": round(confidence, 2),
+            "timestamp": datetime.now().isoformat()
+        }
+
+        return result
 
     def react(self, message):
+        """
+        Este método se ejecuta cuando el agente recibe un mensaje real
+        dentro del entorno PADE.
+        """
 
-        super().react(message)
-
+        # IMPORTANTE:
+        # No llamamos a super().react(message), porque en este caso
+        # puede provocar que PADE intente reenviar/procesar mensajes
+        # antes de que el agente esté completamente inicializado.
 
         if message.ontology != "fake-news-detection":
             return
@@ -30,31 +62,9 @@ class MockSenderAgent(Agent):
             return
 
         try:
-
             news = json.loads(message.content)
 
-            title = str(news.get("title", ""))
-            text = str(news.get("text", ""))
-
-            model_input = title + " " + text
-
-
-            pred = self.model.predict([model_input])[0]
-
-            if hasattr(self.model, "predict_proba"):
-                confidence = float(max(self.model.predict_proba([model_input])[0]))
-            else:
-                confidence = 0.5
-
-            result = {
-                "id": news.get("id"),
-                "title": title,
-                "source": news.get("source", "unknown"),
-                "is_fake": bool(pred),
-                "confidence": round(confidence, 2),
-                "timestamp": datetime.now().isoformat()
-            }
-
+            result = self.classify_news(news)
 
             reply = ACLMessage(ACLMessage.CONFIRM)
             reply.set_ontology("fake-news-detection")
@@ -62,15 +72,18 @@ class MockSenderAgent(Agent):
             reply.set_conversation_id(message.conversation_id)
             reply.set_content(json.dumps(result))
 
-            reply.add_receiver(message.sender)
+            if message.sender is not None:
+                reply.add_receiver(message.sender)
 
-            reply.add_receiver(self.gui_agent)
+            if self.gui_agent is not None:
+                reply.add_receiver(self.gui_agent)
 
             self.send(reply)
 
             display_message(
                 self.aid.name,
-                f"[CLASIFICADO → GUI] ID={news.get('id')} fake={bool(pred)}"
+                f"[CLASIFICADO] ID={news.get('id')} fake={result['is_fake']} "
+                f"confianza={result['confidence']}"
             )
 
         except Exception as e:
@@ -94,14 +107,19 @@ if __name__ == "__main__":
     classifier_port = base_port
 
     # =========================
-    # 2. AID AGENTE
+    # 2. AID AGENTE CLASIFICADOR
     # =========================
     classifier_aid = AID(name=f"{AGENT_NAME}@localhost:{classifier_port}")
 
+    # Si tienes un agente GUI real, puedes definirlo así:
+    # gui_aid = AID(name=f"gui_agent@localhost:{base_port + 1}")
+    # classifier = MockSenderAgent(classifier_aid, gui_agent=gui_aid)
+
+    # Si NO tienes agente GUI todavía:
     classifier = MockSenderAgent(classifier_aid)
 
     # =========================
-    # 3. TEST AISLADO (inyección manual de mensaje)
+    # 3. TEST AISLADO SIN USAR react()
     # =========================
     test_msg = ACLMessage(ACLMessage.INFORM)
     test_msg.set_ontology("fake-news-detection")
@@ -141,12 +159,15 @@ The Clintons have weathered countless scandals over the years. Whatever they are
 The campaign against Comey is pure intimidation. It’s also a warning. Any senior FBI people who value their careers are being warned to stay away. The Democrats are closing ranks around their nominee against the FBI. It’s an ugly and unprecedented scene. It may also be their last stand. 
 Hillary Clinton has awkwardly wound her way through numerous scandals in just this election cycle. But she’s never shown fear or desperation before. Now that has changed. Whatever she is afraid of, it lies buried in her emails with Huma Abedin. And it can bring her down like nothing else has."""
     }))
-    test_msg.sender = AID(name="tester@localhost:50000")
 
-    # Ejecutar test manual antes del loop
-    classifier.react(test_msg)
+    news = json.loads(test_msg.content)
+    result = classifier.classify_news(news)
+
+    print("\n===== RESULTADO TEST AISLADO =====")
+    print(json.dumps(result, indent=4, ensure_ascii=False))
+    print("==================================\n")
 
     # =========================
-    # 4. LANZAR PADE (AGENTE SOLO)
+    # 4. LANZAR PADE
     # =========================
     start_loop([classifier])
