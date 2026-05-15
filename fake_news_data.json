@@ -1,1801 +1,1050 @@
 [
     {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "El Mundo",
+        "id": 0,
+        "title": "Donald Trump Sends Out Embarrassing New Year\u2019s Eve Message; This is Disturbing",
+        "source": "unknown",
         "is_fake": true,
         "confidence": 0.72,
-        "timestamp": "2026-05-15T09:08:16.910447"
+        "timestamp": "2026-05-15T17:29:38.722138"
     },
     {
-        "title": "Descubren agua en Marte",
-        "source": "Twitter",
-        "is_fake": true,
-        "confidence": 0.84,
-        "timestamp": "2026-05-15T09:08:21.911322"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "New York Times",
-        "is_fake": true,
-        "confidence": 0.79,
-        "timestamp": "2026-05-15T09:08:26.917163"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "Twitter",
-        "is_fake": false,
-        "confidence": 0.75,
-        "timestamp": "2026-05-15T09:08:31.917580"
-    },
-    {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "Twitter",
-        "is_fake": false,
-        "confidence": 0.75,
-        "timestamp": "2026-05-15T09:08:36.923312"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "Facebook",
-        "is_fake": true,
-        "confidence": 0.8,
-        "timestamp": "2026-05-15T09:08:41.923519"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "WhatsApp",
-        "is_fake": true,
-        "confidence": 0.85,
-        "timestamp": "2026-05-15T09:08:46.926529"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "WhatsApp",
-        "is_fake": false,
-        "confidence": 0.92,
-        "timestamp": "2026-05-15T09:08:51.926857"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "WhatsApp",
-        "is_fake": false,
-        "confidence": 0.73,
-        "timestamp": "2026-05-15T09:08:56.932009"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "Facebook",
-        "is_fake": true,
-        "confidence": 0.79,
-        "timestamp": "2026-05-15T09:09:01.932598"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "Twitter",
-        "is_fake": true,
-        "confidence": 0.89,
-        "timestamp": "2026-05-15T09:09:06.937481"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "Twitter",
-        "is_fake": true,
-        "confidence": 0.8,
-        "timestamp": "2026-05-15T09:09:11.937743"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "El Mundo",
-        "is_fake": true,
-        "confidence": 0.95,
-        "timestamp": "2026-05-15T09:09:16.943299"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "Facebook",
-        "is_fake": true,
-        "confidence": 0.93,
-        "timestamp": "2026-05-15T09:09:21.943746"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "WhatsApp",
-        "is_fake": false,
-        "confidence": 0.79,
-        "timestamp": "2026-05-15T09:09:26.948053"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "El Mundo",
+        "id": 1,
+        "title": "Drunk Bragging Trump Staffer Started Russian Collusion Investigation",
+        "source": "unknown",
         "is_fake": true,
         "confidence": 0.73,
-        "timestamp": "2026-05-15T09:09:31.948662"
+        "timestamp": "2026-05-15T17:29:41.718326"
     },
     {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "New York Times",
-        "is_fake": false,
-        "confidence": 0.99,
-        "timestamp": "2026-05-15T09:09:36.952935"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "El Mundo",
-        "is_fake": true,
-        "confidence": 0.8,
-        "timestamp": "2026-05-15T09:09:41.953421"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "New York Times",
-        "is_fake": false,
-        "confidence": 0.83,
-        "timestamp": "2026-05-15T09:09:46.958234"
-    },
-    {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "Facebook",
-        "is_fake": true,
-        "confidence": 0.91,
-        "timestamp": "2026-05-15T09:09:51.958780"
-    },
-    {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "El Mundo",
-        "is_fake": true,
-        "confidence": 0.91,
-        "timestamp": "2026-05-15T09:09:56.963887"
-    },
-    {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "New York Times",
-        "is_fake": true,
-        "confidence": 0.75,
-        "timestamp": "2026-05-15T09:10:01.964727"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "New York Times",
+        "id": 2,
+        "title": "Sheriff David Clarke Becomes An Internet Joke For Threatening To Poke People \u2018In The Eye\u2019",
+        "source": "unknown",
         "is_fake": true,
         "confidence": 0.82,
-        "timestamp": "2026-05-15T09:10:06.968945"
+        "timestamp": "2026-05-15T17:29:47.651271"
     },
     {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "New York Times",
-        "is_fake": false,
-        "confidence": 0.77,
-        "timestamp": "2026-05-15T09:10:11.969705"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "WhatsApp",
+        "id": 3,
+        "title": "Trump Is So Obsessed He Even Has Obama\u2019s Name Coded Into His Website (IMAGES)",
+        "source": "unknown",
         "is_fake": true,
-        "confidence": 0.83,
-        "timestamp": "2026-05-15T09:10:16.975305"
-    },
-    {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "Facebook",
-        "is_fake": true,
-        "confidence": 0.74,
-        "timestamp": "2026-05-15T09:10:21.975979"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "El Mundo",
-        "is_fake": true,
-        "confidence": 0.82,
-        "timestamp": "2026-05-15T09:10:26.980189"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "WhatsApp",
-        "is_fake": false,
-        "confidence": 0.94,
-        "timestamp": "2026-05-15T09:10:31.980792"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "New York Times",
-        "is_fake": true,
-        "confidence": 0.89,
-        "timestamp": "2026-05-15T09:10:36.986308"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "WhatsApp",
-        "is_fake": true,
-        "confidence": 0.97,
-        "timestamp": "2026-05-15T09:10:41.987340"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "Facebook",
-        "is_fake": false,
-        "confidence": 0.84,
-        "timestamp": "2026-05-15T09:10:46.992644"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "Twitter",
-        "is_fake": true,
-        "confidence": 0.77,
-        "timestamp": "2026-05-15T09:10:51.993341"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "WhatsApp",
-        "is_fake": true,
-        "confidence": 0.92,
-        "timestamp": "2026-05-15T09:10:56.997256"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "Twitter",
-        "is_fake": false,
-        "confidence": 0.96,
-        "timestamp": "2026-05-15T09:11:01.997755"
-    },
-    {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "Facebook",
-        "is_fake": false,
-        "confidence": 0.72,
-        "timestamp": "2026-05-15T09:11:07.003275"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "New York Times",
-        "is_fake": true,
-        "confidence": 0.76,
-        "timestamp": "2026-05-15T09:11:12.003775"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "Twitter",
-        "is_fake": false,
-        "confidence": 0.97,
-        "timestamp": "2026-05-15T09:11:17.008383"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "Facebook",
-        "is_fake": true,
-        "confidence": 0.74,
-        "timestamp": "2026-05-15T09:11:22.008906"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "New York Times",
-        "is_fake": false,
         "confidence": 0.75,
-        "timestamp": "2026-05-15T09:11:27.013228"
+        "timestamp": "2026-05-15T17:29:50.651251"
     },
     {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "Facebook",
+        "id": 4,
+        "title": "Pope Francis Just Called Out Donald Trump During His Christmas Speech",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.6,
+        "timestamp": "2026-05-15T17:29:53.654918"
+    },
+    {
+        "id": 5,
+        "title": "Racist Alabama Cops Brutalize Black Boy While He Is In Handcuffs (GRAPHIC IMAGES)",
+        "source": "unknown",
         "is_fake": true,
         "confidence": 0.79,
-        "timestamp": "2026-05-15T09:11:32.013916"
+        "timestamp": "2026-05-15T17:29:56.659159"
     },
     {
-        "title": "Descubren agua en Marte",
-        "source": "New York Times",
-        "is_fake": false,
-        "confidence": 0.91,
-        "timestamp": "2026-05-15T09:11:37.018742"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "Facebook",
-        "is_fake": true,
-        "confidence": 0.78,
-        "timestamp": "2026-05-15T09:11:42.019344"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "El Mundo",
-        "is_fake": true,
-        "confidence": 0.72,
-        "timestamp": "2026-05-15T09:11:47.020948"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "WhatsApp",
-        "is_fake": false,
-        "confidence": 0.91,
-        "timestamp": "2026-05-15T09:11:52.021825"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "New York Times",
-        "is_fake": false,
-        "confidence": 0.74,
-        "timestamp": "2026-05-15T09:11:57.027141"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "Twitter",
-        "is_fake": false,
-        "confidence": 0.73,
-        "timestamp": "2026-05-15T09:12:02.027807"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "El Mundo",
-        "is_fake": true,
-        "confidence": 0.82,
-        "timestamp": "2026-05-15T09:12:07.033569"
-    },
-    {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "WhatsApp",
-        "is_fake": true,
-        "confidence": 0.81,
-        "timestamp": "2026-05-15T09:12:12.034521"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "Facebook",
-        "is_fake": true,
-        "confidence": 0.81,
-        "timestamp": "2026-05-15T09:12:17.036858"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "New York Times",
-        "is_fake": true,
-        "confidence": 0.7,
-        "timestamp": "2026-05-15T09:12:22.037912"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "Twitter",
-        "is_fake": false,
-        "confidence": 0.75,
-        "timestamp": "2026-05-15T09:12:27.043577"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "Facebook",
+        "id": 6,
+        "title": "Fresh Off The Golf Course, Trump Lashes Out At FBI Deputy Director And James Comey",
+        "source": "unknown",
         "is_fake": true,
         "confidence": 0.86,
-        "timestamp": "2026-05-15T09:12:32.044326"
+        "timestamp": "2026-05-15T17:29:59.662996"
     },
     {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "El Mundo",
+        "id": 7,
+        "title": "Trump Said Some INSANELY Racist Stuff Inside The Oval Office, And Witnesses Back It Up",
+        "source": "unknown",
+        "is_fake": false,
+        "confidence": 0.52,
+        "timestamp": "2026-05-15T17:30:02.664398"
+    },
+    {
+        "id": 8,
+        "title": "Former CIA Director Slams Trump Over UN Bullying, Openly Suggests He\u2019s Acting Like A Dictator (TWEET)",
+        "source": "unknown",
         "is_fake": true,
-        "confidence": 0.98,
-        "timestamp": "2026-05-15T09:12:37.050089"
+        "confidence": 0.76,
+        "timestamp": "2026-05-15T17:30:05.666566"
     },
     {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "Twitter",
+        "id": 9,
+        "title": "WATCH: Brand-New Pro-Trump Ad Features So Much A** Kissing It Will Make You Sick",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.75,
+        "timestamp": "2026-05-15T17:30:08.669377"
+    },
+    {
+        "id": 10,
+        "title": "Papa John\u2019s Founder Retires, Figures Out Racism Is Bad For Business",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.73,
+        "timestamp": "2026-05-15T17:30:11.670412"
+    },
+    {
+        "id": 11,
+        "title": "WATCH: Paul Ryan Just Told Us He Doesn\u2019t Care About Struggling Families Living In Blue States",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.61,
+        "timestamp": "2026-05-15T17:30:14.675069"
+    },
+    {
+        "id": 12,
+        "title": "Bad News For Trump \u2014 Mitch McConnell Says No To Repealing Obamacare In 2018",
+        "source": "unknown",
         "is_fake": false,
-        "confidence": 0.87,
-        "timestamp": "2026-05-15T09:12:42.051011"
+        "confidence": 0.88,
+        "timestamp": "2026-05-15T17:30:17.677430"
     },
     {
-        "title": "Descubren agua en Marte",
-        "source": "WhatsApp",
+        "id": 13,
+        "title": "WATCH: Lindsey Graham Trashes Media For Portraying Trump As \u2018Kooky,\u2019 Forgets His Own Words",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.54,
+        "timestamp": "2026-05-15T17:30:22.909702"
+    },
+    {
+        "id": 14,
+        "title": "Heiress To Disney Empire Knows GOP Scammed Us \u2013 SHREDS Them For Tax Bill",
+        "source": "unknown",
         "is_fake": false,
-        "confidence": 0.92,
-        "timestamp": "2026-05-15T09:12:47.053031"
+        "confidence": 0.54,
+        "timestamp": "2026-05-15T17:30:25.914404"
     },
     {
-        "title": "Descubren agua en Marte",
-        "source": "Twitter",
+        "id": 15,
+        "title": "Tone Deaf Trump: Congrats Rep. Scalise On Losing Weight After You Almost Died",
+        "source": "unknown",
+        "is_fake": false,
+        "confidence": 0.51,
+        "timestamp": "2026-05-15T17:30:28.915997"
+    },
+    {
+        "id": 16,
+        "title": "The Internet Brutally Mocks Disney\u2019s New Trump Robot At Hall Of Presidents",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.82,
+        "timestamp": "2026-05-15T17:30:31.921203"
+    },
+    {
+        "id": 17,
+        "title": "Mueller Spokesman Just F-cked Up Donald Trump\u2019s Christmas",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.73,
+        "timestamp": "2026-05-15T17:30:34.924601"
+    },
+    {
+        "id": 18,
+        "title": "SNL Hilariously Mocks Accused Child Molester Roy Moore For Losing AL Senate Race (VIDEO)",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.54,
+        "timestamp": "2026-05-15T17:30:37.927889"
+    },
+    {
+        "id": 19,
+        "title": "Republican Senator Gets Dragged For Going After Robert Mueller",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.71,
+        "timestamp": "2026-05-15T17:30:40.932037"
+    },
+    {
+        "id": 20,
+        "title": "In A Heartless Rebuke To Victims, Trump Invites NRA To Xmas Party On Sandy Hook Anniversary",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.63,
+        "timestamp": "2026-05-15T17:30:43.934880"
+    },
+    {
+        "id": 21,
+        "title": "KY GOP State Rep. Commits Suicide Over Allegations He Molested A Teen Girl (DETAILS)",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.54,
+        "timestamp": "2026-05-15T17:30:46.938710"
+    },
+    {
+        "id": 22,
+        "title": "Meghan McCain Tweets The Most AMAZING Response To Doug Jones\u2019 Win In Deep-Red Alabama",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.58,
+        "timestamp": "2026-05-15T17:30:49.939805"
+    },
+    {
+        "id": 23,
+        "title": "CNN CALLS IT: A Democrat Will Represent Alabama In The Senate For The First Time In 25 Years",
+        "source": "unknown",
+        "is_fake": false,
+        "confidence": 0.57,
+        "timestamp": "2026-05-15T17:30:52.941092"
+    },
+    {
+        "id": 24,
+        "title": "White House: It Wasn\u2019t Sexist For Trump To Slut-Shame Sen. Kirsten Gillibrand (VIDEO)",
+        "source": "unknown",
+        "is_fake": false,
+        "confidence": 0.65,
+        "timestamp": "2026-05-15T17:30:58.876453"
+    },
+    {
+        "id": 25,
+        "title": "Despicable Trump Suggests Female Senator Would \u2018Do Anything\u2019 With Him For Campaign Money (TWEET)",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.61,
+        "timestamp": "2026-05-15T17:31:01.881947"
+    },
+    {
+        "id": 26,
+        "title": "Accused Child Molesting Senate Candidate Roy Moore Sides With Putin Over Reagan (VIDEO)",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.76,
+        "timestamp": "2026-05-15T17:31:04.882991"
+    },
+    {
+        "id": 27,
+        "title": "WATCH: Fox Host Calls For A \u2018Cleansing\u2019 Of The FBI, And To Arrest Everyone Investigating Trump",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.85,
+        "timestamp": "2026-05-15T17:31:07.885771"
+    },
+    {
+        "id": 28,
+        "title": "Liberal Group Trolls Trump At Roy Moore Rally In The Best Possible Way (VIDEO)",
+        "source": "unknown",
         "is_fake": true,
         "confidence": 0.7,
-        "timestamp": "2026-05-15T09:12:52.054117"
+        "timestamp": "2026-05-15T17:31:10.890105"
     },
     {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "Twitter",
-        "is_fake": true,
-        "confidence": 0.75,
-        "timestamp": "2026-05-15T09:12:57.058891"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "New York Times",
-        "is_fake": false,
-        "confidence": 0.89,
-        "timestamp": "2026-05-15T09:13:02.059469"
-    },
-    {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "WhatsApp",
-        "is_fake": true,
-        "confidence": 0.93,
-        "timestamp": "2026-05-15T09:13:07.065151"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "New York Times",
-        "is_fake": true,
-        "confidence": 0.8,
-        "timestamp": "2026-05-15T09:13:12.065345"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "El Mundo",
-        "is_fake": false,
-        "confidence": 0.72,
-        "timestamp": "2026-05-15T09:13:17.070719"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "Twitter",
-        "is_fake": false,
-        "confidence": 0.8,
-        "timestamp": "2026-05-15T09:13:22.071678"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "Twitter",
-        "is_fake": false,
-        "confidence": 0.88,
-        "timestamp": "2026-05-15T09:13:27.075503"
-    },
-    {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "Twitter",
-        "is_fake": false,
-        "confidence": 0.95,
-        "timestamp": "2026-05-15T09:13:32.075816"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "Twitter",
-        "is_fake": false,
-        "confidence": 0.85,
-        "timestamp": "2026-05-15T09:13:37.080999"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "Facebook",
-        "is_fake": false,
-        "confidence": 0.76,
-        "timestamp": "2026-05-15T09:13:42.081836"
-    },
-    {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "Facebook",
-        "is_fake": true,
-        "confidence": 0.89,
-        "timestamp": "2026-05-15T09:13:47.087007"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "New York Times",
-        "is_fake": false,
-        "confidence": 0.78,
-        "timestamp": "2026-05-15T09:13:52.087802"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "WhatsApp",
-        "is_fake": false,
-        "confidence": 0.96,
-        "timestamp": "2026-05-15T09:13:57.091510"
-    },
-    {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "Twitter",
-        "is_fake": false,
-        "confidence": 0.87,
-        "timestamp": "2026-05-15T09:14:02.091781"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "El Mundo",
-        "is_fake": true,
-        "confidence": 0.83,
-        "timestamp": "2026-05-15T09:14:07.096678"
-    },
-    {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "Facebook",
-        "is_fake": false,
-        "confidence": 0.77,
-        "timestamp": "2026-05-15T09:14:12.097231"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "New York Times",
-        "is_fake": true,
-        "confidence": 0.79,
-        "timestamp": "2026-05-15T09:14:17.102118"
-    },
-    {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "WhatsApp",
-        "is_fake": true,
-        "confidence": 0.93,
-        "timestamp": "2026-05-15T09:14:22.102728"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "New York Times",
-        "is_fake": true,
-        "confidence": 0.71,
-        "timestamp": "2026-05-15T09:14:27.107872"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "El Mundo",
-        "is_fake": false,
-        "confidence": 0.91,
-        "timestamp": "2026-05-15T09:14:32.108492"
-    },
-    {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "Facebook",
-        "is_fake": false,
-        "confidence": 0.7,
-        "timestamp": "2026-05-15T09:14:37.112606"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "Facebook",
-        "is_fake": true,
-        "confidence": 0.8,
-        "timestamp": "2026-05-15T09:14:42.113329"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "Twitter",
-        "is_fake": true,
-        "confidence": 0.89,
-        "timestamp": "2026-05-15T09:14:47.117664"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "WhatsApp",
-        "is_fake": true,
-        "confidence": 0.76,
-        "timestamp": "2026-05-15T09:14:52.118080"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "New York Times",
-        "is_fake": true,
-        "confidence": 0.83,
-        "timestamp": "2026-05-15T09:14:57.123811"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "El Mundo",
+        "id": 29,
+        "title": "Don Jr. Tries To Mock Al Franken\u2019s Resignation, Backfires Immediately",
+        "source": "unknown",
         "is_fake": true,
         "confidence": 0.74,
-        "timestamp": "2026-05-15T09:15:02.124893"
+        "timestamp": "2026-05-15T17:31:13.894343"
     },
     {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "Twitter",
+        "id": 30,
+        "title": "BREAKING: Cop Finally Gets His Due, Walter Scott\u2019s Killer Sentenced To Prison (DETAILS)",
+        "source": "unknown",
         "is_fake": true,
-        "confidence": 0.95,
-        "timestamp": "2026-05-15T09:15:07.128690"
+        "confidence": 0.61,
+        "timestamp": "2026-05-15T17:31:16.894137"
     },
     {
-        "title": "Descubren agua en Marte",
-        "source": "New York Times",
+        "id": 31,
+        "title": "Watch: Is This Proof Trump Is Unfit for Service?",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.57,
+        "timestamp": "2026-05-15T17:31:19.897433"
+    },
+    {
+        "id": 32,
+        "title": "Trump Completely SCREWS The Middle East Peace Process, Just Another Wednesday For Him",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.65,
+        "timestamp": "2026-05-15T17:31:22.902389"
+    },
+    {
+        "id": 33,
+        "title": "Trump Only Cares About Trump; Why He Is Recognizing Jerusalem Today",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.62,
+        "timestamp": "2026-05-15T17:31:25.903453"
+    },
+    {
+        "id": 34,
+        "title": "Watch: Trump Supporting Coal CEO Upset Trump Is Wiping Out \u2018Thousands\u2019 Of Coal Mining Jobs",
+        "source": "unknown",
+        "is_fake": false,
+        "confidence": 0.69,
+        "timestamp": "2026-05-15T17:31:28.905611"
+    },
+    {
+        "id": 35,
+        "title": "Sitting GOP Senator Has Had ENOUGH, Donates To Alabama Democrat For Senate (IMAGE)",
+        "source": "unknown",
+        "is_fake": false,
+        "confidence": 0.5,
+        "timestamp": "2026-05-15T17:31:34.839478"
+    },
+    {
+        "id": 36,
+        "title": "Republican National Committee: Better A Pedophile Than A Democrat In The U.S. Senate",
+        "source": "unknown",
+        "is_fake": false,
+        "confidence": 0.65,
+        "timestamp": "2026-05-15T17:31:37.842043"
+    },
+    {
+        "id": 37,
+        "title": "Donald Trump\u2019s Eating Habits Could Be Dramatically Affecting His Wellbeing And Our Safety",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.64,
+        "timestamp": "2026-05-15T17:31:40.844490"
+    },
+    {
+        "id": 38,
+        "title": "John McCain Wanted Another 74 Twitter Followers, But His Plan Backfired Miserably (TWEETS)",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.51,
+        "timestamp": "2026-05-15T17:31:43.846357"
+    },
+    {
+        "id": 39,
+        "title": "This Sarah Huckabee Sanders Tweet About Attacking The FBI Hasn\u2019t Aged Well",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.9,
+        "timestamp": "2026-05-15T17:31:46.847951"
+    },
+    {
+        "id": 40,
+        "title": "FBI Agents Destroy Donald Trump After He Attacks The Agency And James Comey",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.91,
+        "timestamp": "2026-05-15T17:31:49.851902"
+    },
+    {
+        "id": 41,
+        "title": "\u2018Ghost Of Witness Flipped\u2019: Hilarious SNL Skit Takes Trump Into His Own Private Holiday Hell (VIDEO)",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.72,
+        "timestamp": "2026-05-15T17:31:52.852378"
+    },
+    {
+        "id": 42,
+        "title": "Leaked Email Proves Trump Officials Aware Russia Had \u2018Thrown The USA Election\u2019 To Trump",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.74,
+        "timestamp": "2026-05-15T17:31:55.853999"
+    },
+    {
+        "id": 43,
+        "title": "Trump Just Admitted He Knew Flynn Lied To The FBI Before He Asked Comey To Drop The Investigation",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.72,
+        "timestamp": "2026-05-15T17:31:58.859598"
+    },
+    {
+        "id": 44,
+        "title": "Watch This Awesome Mashup of Michael Flynn Leading The \u2018Lock Her Up\u2019 Chant As He Goes Off To Court (VIDEO)",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.82,
+        "timestamp": "2026-05-15T17:32:01.863621"
+    },
+    {
+        "id": 45,
+        "title": "White House Panics Knowing Flynn Is Going To Take Them Down",
+        "source": "unknown",
+        "is_fake": false,
+        "confidence": 0.58,
+        "timestamp": "2026-05-15T17:32:07.797500"
+    },
+    {
+        "id": 46,
+        "title": "BREAKING: Michael Flynn CRACKS \u2013 Will Testify To Mueller Against Trump Himself",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.54,
+        "timestamp": "2026-05-15T17:32:10.800617"
+    },
+    {
+        "id": 47,
+        "title": "Trump Gets An Epic F**ck You From Britain Over His White Supremacist Retweets",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.67,
+        "timestamp": "2026-05-15T17:32:13.803767"
+    },
+    {
+        "id": 48,
+        "title": "This Hilarious Campaign Ad Shows Voters How They Can Avoid Scandalous Elected Officials",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.63,
+        "timestamp": "2026-05-15T17:32:16.808153"
+    },
+    {
+        "id": 49,
+        "title": "Joe Scarborough: It\u2019s Not Our Imagination \u2013 Trump Really Is Losing His Mind (VIDEO)",
+        "source": "unknown",
+        "is_fake": false,
+        "confidence": 0.5,
+        "timestamp": "2026-05-15T17:32:19.808317"
+    },
+    {
+        "id": 50,
+        "title": "Sources Confirm Robert Mueller\u2019s Office Interviewed Jared Kushner Several Weeks Ago",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.61,
+        "timestamp": "2026-05-15T17:32:22.812049"
+    },
+    {
+        "id": 51,
+        "title": "Trump Sends Crazy-Time Tweet To The Wrong Account After Losing His Sh*t Over World Leader\u2019s Remarks",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.64,
+        "timestamp": "2026-05-15T17:32:25.816730"
+    },
+    {
+        "id": 52,
+        "title": "Americans Once Elected A President After He Was Accused Of Raping A 13-Year-Old Girl",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.8,
+        "timestamp": "2026-05-15T17:32:28.817845"
+    },
+    {
+        "id": 53,
+        "title": "Trump\u2019s Biggest KKK Fan Is Back, And He Just LOVED Those Anti-Muslim Tweets This Morning",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.78,
+        "timestamp": "2026-05-15T17:32:31.819711"
+    },
+    {
+        "id": 54,
+        "title": "Trump Spent The Night Retweeting A White Supremacist Convicted Criminal",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.81,
+        "timestamp": "2026-05-15T17:32:34.825506"
+    },
+    {
+        "id": 55,
+        "title": "Sean Hannity Is Throwing A Stage-4 Temper Tantrum Over The Photo He Posed For (IMAGE)",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.89,
+        "timestamp": "2026-05-15T17:32:37.831596"
+    },
+    {
+        "id": 56,
+        "title": "Democrats Give Trump A Big F**ck You After He Attacks Them In Insane Twitter Rant",
+        "source": "unknown",
+        "is_fake": false,
+        "confidence": 0.53,
+        "timestamp": "2026-05-15T17:32:43.763279"
+    },
+    {
+        "id": 57,
+        "title": "Trump Wakes Up To Scream At Black People After Hurling A Racial Slur Yesterday",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.8,
+        "timestamp": "2026-05-15T17:32:46.768249"
+    },
+    {
+        "id": 58,
+        "title": "Trump Supporters Object To Prince Harry\u2019s Recent Engagement For Terrible Reasons (TWEETS)",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.83,
+        "timestamp": "2026-05-15T17:32:49.769991"
+    },
+    {
+        "id": 59,
+        "title": "While Honoring Native American Code Talkers, Trump Called Elizabeth Warren \u2018Pocahontas\u2019 (VIDEO)",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.54,
+        "timestamp": "2026-05-15T17:32:52.771367"
+    },
+    {
+        "id": 60,
+        "title": "Pro-Trump Group Is Now Using Pictures Of An Obama Rally To Make Trump Look Popular",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.62,
+        "timestamp": "2026-05-15T17:32:55.776167"
+    },
+    {
+        "id": 61,
+        "title": "Breitbart Editor To CNN Host: A Song By Ringo Starr Proves Roy Moore Isn\u2019t A Pedo (VIDEO)",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.72,
+        "timestamp": "2026-05-15T17:32:58.777549"
+    },
+    {
+        "id": 62,
+        "title": "Former Obama Photographer Takes Trolling Trump To A Whole New Level (TWEETS)",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.6,
+        "timestamp": "2026-05-15T17:33:01.781723"
+    },
+    {
+        "id": 63,
+        "title": "Just Back From A Golfing Vacay, Trump Says He\u2019s Done More Than Any President Ever",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.67,
+        "timestamp": "2026-05-15T17:33:04.782052"
+    },
+    {
+        "id": 64,
+        "title": "Two Weeks Before Election, Trump Still Defends Accused Child Molester Because TAXES, Y\u2019all",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.62,
+        "timestamp": "2026-05-15T17:33:07.785618"
+    },
+    {
+        "id": 65,
+        "title": "Principles Over Power: Why Republicans Need To Do What\u2019s Right To Remain Relevant",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.51,
+        "timestamp": "2026-05-15T17:33:10.788378"
+    },
+    {
+        "id": 66,
+        "title": "Trump: Everything You Heard Me Say On The Access Hollywood Tape Never Happened",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.6,
+        "timestamp": "2026-05-15T17:33:13.793283"
+    },
+    {
+        "id": 67,
+        "title": "CNN BLISTERS Trump After He Attacks Them For Bad Representation: \u2018That\u2019s Your Job\u2019 (TWEETS)",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.64,
+        "timestamp": "2026-05-15T17:33:19.726192"
+    },
+    {
+        "id": 68,
+        "title": "Sean Hannity Gets Wrecked For Yelling At Time Magazine For Calling Out Trump\u2019s Lie",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.83,
+        "timestamp": "2026-05-15T17:33:22.727525"
+    },
+    {
+        "id": 69,
+        "title": "Time Magazine Humiliates Trump After He Lies About Award",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.69,
+        "timestamp": "2026-05-15T17:33:25.731497"
+    },
+    {
+        "id": 70,
+        "title": "Ivanka Defends Malia Obama From Attacks, Her Dad\u2019s Fans Won\u2019t Stop: \u2018She Looks Like A Baboon\u2019",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.67,
+        "timestamp": "2026-05-15T17:33:28.733303"
+    },
+    {
+        "id": 71,
+        "title": "Trumpsters Launch Insane Conspiracy Theory About The Boot On John McCain\u2019s Foot",
+        "source": "unknown",
         "is_fake": true,
         "confidence": 0.88,
-        "timestamp": "2026-05-15T09:15:12.129623"
+        "timestamp": "2026-05-15T17:33:31.737584"
     },
     {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "New York Times",
+        "id": 72,
+        "title": "Gay GOP Operative Endorses Doug Jones Over \u2018Bigoted, Deviant\u2019 Roy Moore In Senate Race (VIDEO)",
+        "source": "unknown",
         "is_fake": true,
-        "confidence": 0.79,
-        "timestamp": "2026-05-15T09:15:17.134660"
+        "confidence": 0.53,
+        "timestamp": "2026-05-15T17:33:34.739867"
     },
     {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "WhatsApp",
+        "id": 73,
+        "title": "WATCH: Retired Alabama Cop: We Were Told To Keep Roy Moore Away From High School Cheerleaders",
+        "source": "unknown",
         "is_fake": false,
-        "confidence": 0.79,
-        "timestamp": "2026-05-15T09:15:22.134889"
+        "confidence": 0.56,
+        "timestamp": "2026-05-15T17:33:37.744638"
     },
     {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "Facebook",
+        "id": 74,
+        "title": "New York Times Reports There\u2019s An Actual Russian Agent In Congress And He Has A Code Name",
+        "source": "unknown",
         "is_fake": true,
-        "confidence": 0.79,
-        "timestamp": "2026-05-15T09:15:27.140270"
+        "confidence": 0.65,
+        "timestamp": "2026-05-15T17:33:40.748907"
     },
     {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "Facebook",
+        "id": 75,
+        "title": "Fox News Bans Gene Simmons For Life For Harassing Staff Off Camera",
+        "source": "unknown",
         "is_fake": true,
-        "confidence": 0.79,
-        "timestamp": "2026-05-15T09:15:32.141271"
+        "confidence": 0.55,
+        "timestamp": "2026-05-15T17:33:43.752972"
     },
     {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "Facebook",
+        "id": 76,
+        "title": "WATCH: Nicolle Wallace Takes Trump To The Woodshed For Backing Pedophile Moore",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.6,
+        "timestamp": "2026-05-15T17:33:46.752633"
+    },
+    {
+        "id": 77,
+        "title": "Pastor Goes Full Y\u2019all Qaeda Defending Roy Moore: He Only Wanted Teen Girls For Their \u2018Purity\u2019",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.59,
+        "timestamp": "2026-05-15T17:33:49.757357"
+    },
+    {
+        "id": 78,
+        "title": "Trump\u2019s National Security Adviser Reportedly TRASHED Him \u2013 This Is Epic",
+        "source": "unknown",
         "is_fake": false,
-        "confidence": 0.95,
-        "timestamp": "2026-05-15T09:15:37.145181"
+        "confidence": 0.51,
+        "timestamp": "2026-05-15T17:33:54.685276"
     },
     {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "Facebook",
-        "is_fake": false,
-        "confidence": 0.84,
-        "timestamp": "2026-05-15T09:15:42.146197"
+        "id": 79,
+        "title": "Trump\u2019s Favorite News Channel Tries To Soothe His Battered Ego \u2013 Gets Taken To The Cleaners",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.82,
+        "timestamp": "2026-05-15T17:33:57.689027"
     },
     {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "WhatsApp",
-        "is_fake": false,
-        "confidence": 0.95,
-        "timestamp": "2026-05-15T09:15:47.150647"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "Facebook",
-        "is_fake": false,
-        "confidence": 0.97,
-        "timestamp": "2026-05-15T09:15:52.150877"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "El Mundo",
+        "id": 80,
+        "title": "Texas Governor Just Broke With Trump; This Is Unprecedented",
+        "source": "unknown",
         "is_fake": false,
         "confidence": 0.78,
-        "timestamp": "2026-05-15T09:15:57.156363"
+        "timestamp": "2026-05-15T17:34:00.692352"
     },
     {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "Facebook",
+        "id": 81,
+        "title": "Conservative \u2018Christian\u2019 Leader Kept A Sexual Assault Secret For A Republican Lawmaker",
+        "source": "unknown",
         "is_fake": true,
-        "confidence": 0.94,
-        "timestamp": "2026-05-15T09:16:02.156559"
+        "confidence": 0.68,
+        "timestamp": "2026-05-15T17:34:03.697655"
     },
     {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "El Mundo",
+        "id": 82,
+        "title": "GOP Senator Caught On Hot Mic Trashing His Own Party Over Roy Moore And Donald Trump (VIDEO)",
+        "source": "unknown",
         "is_fake": false,
-        "confidence": 0.77,
-        "timestamp": "2026-05-15T09:16:07.161821"
+        "confidence": 0.51,
+        "timestamp": "2026-05-15T17:34:06.699053"
     },
     {
-        "title": "Descubren agua en Marte",
-        "source": "New York Times",
-        "is_fake": false,
-        "confidence": 0.93,
-        "timestamp": "2026-05-15T09:16:12.162868"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "Facebook",
-        "is_fake": true,
-        "confidence": 0.99,
-        "timestamp": "2026-05-15T09:16:17.167889"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "Facebook",
-        "is_fake": true,
-        "confidence": 0.95,
-        "timestamp": "2026-05-15T09:16:22.168943"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "Twitter",
-        "is_fake": true,
-        "confidence": 0.79,
-        "timestamp": "2026-05-15T09:16:27.172681"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "Facebook",
-        "is_fake": false,
-        "confidence": 0.72,
-        "timestamp": "2026-05-15T09:16:32.173452"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "Facebook",
-        "is_fake": false,
-        "confidence": 0.91,
-        "timestamp": "2026-05-15T09:16:37.178216"
-    },
-    {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "Twitter",
-        "is_fake": false,
-        "confidence": 0.91,
-        "timestamp": "2026-05-15T09:16:42.179281"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "El Mundo",
-        "is_fake": true,
-        "confidence": 0.96,
-        "timestamp": "2026-05-15T09:16:47.183867"
-    },
-    {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "Twitter",
+        "id": 83,
+        "title": "Donald Trump Is Destroying The Country\u2019s Reputation And Here\u2019s Proof",
+        "source": "unknown",
         "is_fake": true,
         "confidence": 0.76,
-        "timestamp": "2026-05-15T09:16:52.184295"
+        "timestamp": "2026-05-15T17:34:09.703593"
     },
     {
-        "title": "Descubren agua en Marte",
-        "source": "El Mundo",
+        "id": 84,
+        "title": "Trump Just Got His P*ssy Handed To Him By New Zealand\u2019s Female Prime Minister",
+        "source": "unknown",
         "is_fake": true,
-        "confidence": 0.97,
-        "timestamp": "2026-05-15T09:16:57.188867"
+        "confidence": 0.68,
+        "timestamp": "2026-05-15T17:34:12.707246"
     },
     {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "New York Times",
+        "id": 85,
+        "title": "Chaos Ensues After Man Accidentally Shoots Himself And Wife In Church During Gun Safety Talk",
+        "source": "unknown",
+        "is_fake": false,
+        "confidence": 0.56,
+        "timestamp": "2026-05-15T17:34:15.711182"
+    },
+    {
+        "id": 86,
+        "title": "New Accuser Confirms She Got Roy Moore Banned From The Mall (VIDEOS)",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.65,
+        "timestamp": "2026-05-15T17:34:18.712421"
+    },
+    {
+        "id": 87,
+        "title": "Roy Moore Is Asking People To Snitch On The Media And He\u2019s Getting Trolled HARD (TWEETS)",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.96,
+        "timestamp": "2026-05-15T17:34:21.717542"
+    },
+    {
+        "id": 88,
+        "title": "Trump Admin. Tosses Out Another Obama Rule \u2013 His Sons Can Be Even Worse Douchebags Now",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.72,
+        "timestamp": "2026-05-15T17:34:24.717649"
+    },
+    {
+        "id": 89,
+        "title": "The Internet Lights Up After The Pentagon Accidentally Retweets A Call For Trump To Resign",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.74,
+        "timestamp": "2026-05-15T17:34:30.649320"
+    },
+    {
+        "id": 90,
+        "title": "Anti-Gay GOP Rep Gets BUSTED For Having Inappropriate Relations With A Man In His State Office",
+        "source": "unknown",
+        "is_fake": false,
+        "confidence": 0.53,
+        "timestamp": "2026-05-15T17:34:33.653835"
+    },
+    {
+        "id": 91,
+        "title": "That Time Trump Mocked Marco Rubio For Drinking Water Just Came Back To Haunt Him",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.68,
+        "timestamp": "2026-05-15T17:34:36.657428"
+    },
+    {
+        "id": 92,
+        "title": "WATCH: Corporate CEOs SHOCK Trump\u2019s Economic Adviser With Truth About GOP Tax Cuts",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.58,
+        "timestamp": "2026-05-15T17:34:39.660937"
+    },
+    {
+        "id": 93,
+        "title": "Texas Sheriff Threatens To Jail Truck Owner For Anti-Trump Sticker (SCREENSHOTS)",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.74,
+        "timestamp": "2026-05-15T17:34:42.661976"
+    },
+    {
+        "id": 94,
+        "title": "WATCH: Delusional Trump Fans Lash Out At Fox Host For Reporting Facts Of Uranium One Deal",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.51,
+        "timestamp": "2026-05-15T17:34:45.663683"
+    },
+    {
+        "id": 95,
+        "title": "Roy Moore Supporting Republican LOSES It After Being Called An Extremist",
+        "source": "unknown",
+        "is_fake": false,
+        "confidence": 0.78,
+        "timestamp": "2026-05-15T17:34:48.667302"
+    },
+    {
+        "id": 96,
+        "title": "That Story Trump Just Told The Press About Obama And Air Force One NEVER Happened",
+        "source": "unknown",
+        "is_fake": false,
+        "confidence": 0.54,
+        "timestamp": "2026-05-15T17:34:51.669276"
+    },
+    {
+        "id": 97,
+        "title": "This 4-Year Old Tweet From Donald Trump Shows Us He\u2019s AT LEAST As Perverted As Roy Moore",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.69,
+        "timestamp": "2026-05-15T17:34:54.673589"
+    },
+    {
+        "id": 98,
+        "title": "OOPS: Trump Judicial Nominee Didn\u2019t Tell Congress About Marriage To White House Attorney",
+        "source": "unknown",
+        "is_fake": false,
+        "confidence": 0.74,
+        "timestamp": "2026-05-15T17:34:57.676096"
+    },
+    {
+        "id": 99,
+        "title": "Trump Laughs After Philippine Leader Calls Journalists \u2018Spies\u2019 In Country Where Journalists Are Routinely Murdered",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.71,
+        "timestamp": "2026-05-15T17:35:03.613006"
+    },
+    {
+        "id": 100,
+        "title": "Watch: Joe Biden Just Wrecked Trump In Six Words And It\u2019s Hilarious",
+        "source": "unknown",
+        "is_fake": false,
+        "confidence": 0.63,
+        "timestamp": "2026-05-15T17:35:06.618166"
+    },
+    {
+        "id": 101,
+        "title": "BUSTED: Leaked Documents Prove Trump Took Laundered Money From Russian Bank",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.79,
+        "timestamp": "2026-05-15T17:35:09.619464"
+    },
+    {
+        "id": 102,
+        "title": "Perverted GOP State Rep. Corners Lobbyist, Tries To Force Her To Help With His \u2018Raging B**ner\u2019",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.55,
+        "timestamp": "2026-05-15T17:35:12.623855"
+    },
+    {
+        "id": 103,
+        "title": "All Of Roy Moore\u2019s Former Colleagues Knew He Liked \u2018Dating\u2019 Teenage Girls",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.74,
+        "timestamp": "2026-05-15T17:35:15.627328"
+    },
+    {
+        "id": 104,
+        "title": "WATCH: Christian Right Founder Condemns Them For Supporting Nazis And Sexual Misconduct",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.6,
+        "timestamp": "2026-05-15T17:35:18.627495"
+    },
+    {
+        "id": 105,
+        "title": "Conservative \u2018Christian\u2019 Leader Defends Pedophile GOP Candidate Roy Moore",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.57,
+        "timestamp": "2026-05-15T17:35:21.631514"
+    },
+    {
+        "id": 106,
+        "title": "Trump Throws Intelligence Community Under The Bus To Side With Putin Despite Strong Evidence Of Russian Meddling",
+        "source": "unknown",
         "is_fake": true,
         "confidence": 0.73,
-        "timestamp": "2026-05-15T09:17:02.189461"
+        "timestamp": "2026-05-15T17:35:24.633290"
     },
     {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "WhatsApp",
-        "is_fake": false,
-        "confidence": 0.99,
-        "timestamp": "2026-05-15T09:17:07.192156"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "El Mundo",
-        "is_fake": false,
-        "confidence": 0.99,
-        "timestamp": "2026-05-15T09:17:12.193013"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "Twitter",
-        "is_fake": false,
-        "confidence": 0.77,
-        "timestamp": "2026-05-15T09:17:17.197919"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "Facebook",
+        "id": 107,
+        "title": "This Old Mike Pence Tweet Sure Is Uncomfortable Now That The G In MAGA Means Grope",
+        "source": "unknown",
         "is_fake": true,
-        "confidence": 0.81,
-        "timestamp": "2026-05-15T09:17:22.198990"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "El Mundo",
-        "is_fake": true,
-        "confidence": 0.89,
-        "timestamp": "2026-05-15T09:17:27.203996"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "New York Times",
-        "is_fake": true,
-        "confidence": 0.75,
-        "timestamp": "2026-05-15T09:17:32.204449"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "Facebook",
-        "is_fake": true,
-        "confidence": 0.98,
-        "timestamp": "2026-05-15T09:17:37.210333"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "Facebook",
-        "is_fake": false,
-        "confidence": 0.96,
-        "timestamp": "2026-05-15T09:17:42.210728"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "WhatsApp",
-        "is_fake": true,
-        "confidence": 0.79,
-        "timestamp": "2026-05-15T09:17:47.213596"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "New York Times",
-        "is_fake": false,
-        "confidence": 0.96,
-        "timestamp": "2026-05-15T09:17:52.214030"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "WhatsApp",
-        "is_fake": true,
-        "confidence": 0.93,
-        "timestamp": "2026-05-15T09:17:57.219333"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "New York Times",
-        "is_fake": false,
-        "confidence": 0.94,
-        "timestamp": "2026-05-15T09:18:02.220278"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "Facebook",
-        "is_fake": false,
         "confidence": 0.71,
-        "timestamp": "2026-05-15T09:18:07.224160"
+        "timestamp": "2026-05-15T17:35:27.635613"
     },
     {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "El Mundo",
-        "is_fake": true,
-        "confidence": 0.86,
-        "timestamp": "2026-05-15T09:18:12.224379"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "El Mundo",
-        "is_fake": true,
-        "confidence": 0.95,
-        "timestamp": "2026-05-15T09:18:17.229473"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "Twitter",
-        "is_fake": true,
-        "confidence": 0.74,
-        "timestamp": "2026-05-15T09:18:22.230272"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "WhatsApp",
-        "is_fake": false,
-        "confidence": 0.81,
-        "timestamp": "2026-05-15T09:18:27.235742"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "New York Times",
-        "is_fake": false,
-        "confidence": 0.81,
-        "timestamp": "2026-05-15T09:18:32.235872"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "Twitter",
-        "is_fake": true,
-        "confidence": 0.98,
-        "timestamp": "2026-05-15T09:18:37.239835"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "Twitter",
-        "is_fake": true,
-        "confidence": 0.79,
-        "timestamp": "2026-05-15T09:18:42.240246"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "New York Times",
-        "is_fake": false,
-        "confidence": 0.78,
-        "timestamp": "2026-05-15T09:18:47.245466"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "New York Times",
-        "is_fake": false,
-        "confidence": 0.83,
-        "timestamp": "2026-05-15T09:18:52.245755"
-    },
-    {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "WhatsApp",
-        "is_fake": false,
-        "confidence": 0.74,
-        "timestamp": "2026-05-15T09:18:57.250679"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "Facebook",
-        "is_fake": true,
-        "confidence": 0.82,
-        "timestamp": "2026-05-15T09:19:02.250841"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "WhatsApp",
-        "is_fake": false,
-        "confidence": 0.78,
-        "timestamp": "2026-05-15T09:19:07.255555"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "Facebook",
-        "is_fake": false,
-        "confidence": 0.87,
-        "timestamp": "2026-05-15T09:19:12.256119"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "El Mundo",
-        "is_fake": false,
-        "confidence": 0.76,
-        "timestamp": "2026-05-15T09:19:17.261506"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "WhatsApp",
-        "is_fake": true,
-        "confidence": 0.97,
-        "timestamp": "2026-05-15T09:19:22.262560"
-    },
-    {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "WhatsApp",
-        "is_fake": true,
-        "confidence": 0.88,
-        "timestamp": "2026-05-15T09:19:27.267775"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "New York Times",
-        "is_fake": false,
-        "confidence": 0.72,
-        "timestamp": "2026-05-15T09:19:32.268486"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "WhatsApp",
-        "is_fake": true,
-        "confidence": 0.84,
-        "timestamp": "2026-05-15T09:19:37.272157"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "New York Times",
-        "is_fake": false,
-        "confidence": 0.87,
-        "timestamp": "2026-05-15T09:19:42.272958"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "New York Times",
-        "is_fake": true,
-        "confidence": 0.99,
-        "timestamp": "2026-05-15T09:19:47.277511"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "WhatsApp",
-        "is_fake": true,
-        "confidence": 0.85,
-        "timestamp": "2026-05-15T09:19:52.277934"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "Facebook",
-        "is_fake": true,
-        "confidence": 0.91,
-        "timestamp": "2026-05-15T09:19:57.283710"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "Facebook",
-        "is_fake": false,
-        "confidence": 0.9,
-        "timestamp": "2026-05-15T09:20:02.284154"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "New York Times",
-        "is_fake": false,
-        "confidence": 0.81,
-        "timestamp": "2026-05-15T09:20:07.288127"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "El Mundo",
-        "is_fake": false,
-        "confidence": 0.71,
-        "timestamp": "2026-05-15T09:20:12.289070"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "WhatsApp",
-        "is_fake": false,
-        "confidence": 0.98,
-        "timestamp": "2026-05-15T09:20:17.294417"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "El Mundo",
+        "id": 108,
+        "title": "Sean Hannity Just Said Child Molestation Is OK If It\u2019s \u2018Consensual\u2019 (VIDEO)",
+        "source": "unknown",
         "is_fake": true,
         "confidence": 0.72,
-        "timestamp": "2026-05-15T09:20:22.295178"
+        "timestamp": "2026-05-15T17:35:30.637395"
     },
     {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "El Mundo",
-        "is_fake": true,
-        "confidence": 0.93,
-        "timestamp": "2026-05-15T09:20:27.300827"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "El Mundo",
-        "is_fake": false,
-        "confidence": 0.96,
-        "timestamp": "2026-05-15T09:20:32.301845"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "New York Times",
-        "is_fake": true,
-        "confidence": 0.75,
-        "timestamp": "2026-05-15T09:20:37.304654"
-    },
-    {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "New York Times",
-        "is_fake": true,
-        "confidence": 0.73,
-        "timestamp": "2026-05-15T09:20:42.304872"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "Twitter",
-        "is_fake": false,
-        "confidence": 0.71,
-        "timestamp": "2026-05-15T09:20:47.310605"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "Twitter",
-        "is_fake": false,
-        "confidence": 0.94,
-        "timestamp": "2026-05-15T09:20:52.311279"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "Facebook",
-        "is_fake": true,
-        "confidence": 0.75,
-        "timestamp": "2026-05-15T09:20:57.317140"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "WhatsApp",
-        "is_fake": false,
-        "confidence": 0.79,
-        "timestamp": "2026-05-15T09:21:02.317716"
-    },
-    {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "WhatsApp",
-        "is_fake": false,
-        "confidence": 0.75,
-        "timestamp": "2026-05-15T09:21:07.320899"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "WhatsApp",
+        "id": 109,
+        "title": "Newsweek Just Made Their BEST Cover Ever And People Are Freaking Out",
+        "source": "unknown",
         "is_fake": true,
         "confidence": 0.79,
-        "timestamp": "2026-05-15T09:21:12.321512"
+        "timestamp": "2026-05-15T17:35:33.641765"
     },
     {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "El Mundo",
+        "id": 110,
+        "title": "Alabama Republican Just Defended Pedophilia Using The Bible",
+        "source": "unknown",
         "is_fake": true,
-        "confidence": 0.76,
-        "timestamp": "2026-05-15T09:21:17.327511"
+        "confidence": 0.52,
+        "timestamp": "2026-05-15T17:35:39.575253"
     },
     {
-        "title": "Descubren agua en Marte",
-        "source": "Facebook",
+        "id": 111,
+        "title": "GOP Senate Candidate Turns Out To Be A Disgusting Child Molester",
+        "source": "unknown",
         "is_fake": true,
-        "confidence": 0.94,
-        "timestamp": "2026-05-15T09:21:22.327928"
+        "confidence": 0.58,
+        "timestamp": "2026-05-15T17:35:42.579691"
     },
     {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "Twitter",
+        "id": 112,
+        "title": "Senate Democrats Have Been Sneaking Around Behind GOP\u2019s Back To Unravel Trump Administration",
+        "source": "unknown",
         "is_fake": true,
-        "confidence": 0.73,
-        "timestamp": "2026-05-15T09:21:27.333407"
+        "confidence": 0.53,
+        "timestamp": "2026-05-15T17:35:45.582978"
     },
     {
-        "title": "Descubren agua en Marte",
-        "source": "New York Times",
-        "is_fake": false,
-        "confidence": 0.78,
-        "timestamp": "2026-05-15T09:22:03.066734"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "El Mundo",
-        "is_fake": false,
-        "confidence": 0.97,
-        "timestamp": "2026-05-15T09:22:08.070787"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "Twitter",
+        "id": 113,
+        "title": "Sunday\u2019s Massacre In Texas Bumped Columbine Out Of The Top Ten Deadliest US Mass Shootings",
+        "source": "unknown",
         "is_fake": true,
-        "confidence": 0.85,
-        "timestamp": "2026-05-15T09:22:13.075334"
+        "confidence": 0.5,
+        "timestamp": "2026-05-15T17:35:48.586730"
     },
     {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "WhatsApp",
-        "is_fake": true,
-        "confidence": 0.95,
-        "timestamp": "2026-05-15T09:22:18.079237"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "New York Times",
-        "is_fake": true,
-        "confidence": 0.82,
-        "timestamp": "2026-05-15T09:22:23.084544"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "El Mundo",
-        "is_fake": false,
-        "confidence": 0.7,
-        "timestamp": "2026-05-15T09:22:28.087265"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "Twitter",
-        "is_fake": true,
-        "confidence": 0.83,
-        "timestamp": "2026-05-15T09:22:33.088300"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "Facebook",
-        "is_fake": false,
-        "confidence": 0.87,
-        "timestamp": "2026-05-15T09:22:38.088889"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "Facebook",
-        "is_fake": true,
-        "confidence": 0.93,
-        "timestamp": "2026-05-15T09:22:43.091649"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "Facebook",
-        "is_fake": false,
-        "confidence": 0.9,
-        "timestamp": "2026-05-15T09:22:48.094299"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "Twitter",
-        "is_fake": true,
-        "confidence": 0.77,
-        "timestamp": "2026-05-15T09:22:53.099953"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "New York Times",
-        "is_fake": true,
-        "confidence": 0.85,
-        "timestamp": "2026-05-15T09:22:58.101730"
-    },
-    {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "New York Times",
-        "is_fake": true,
-        "confidence": 0.74,
-        "timestamp": "2026-05-15T09:23:03.105120"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "New York Times",
-        "is_fake": true,
-        "confidence": 0.86,
-        "timestamp": "2026-05-15T09:23:08.105984"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "WhatsApp",
-        "is_fake": true,
-        "confidence": 0.99,
-        "timestamp": "2026-05-15T09:24:01.873140"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "Facebook",
-        "is_fake": false,
-        "confidence": 0.83,
-        "timestamp": "2026-05-15T09:24:06.877364"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "Facebook",
-        "is_fake": true,
-        "confidence": 0.96,
-        "timestamp": "2026-05-15T09:24:11.883079"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "Twitter",
-        "is_fake": false,
-        "confidence": 0.95,
-        "timestamp": "2026-05-15T09:24:16.886681"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "El Mundo",
-        "is_fake": false,
-        "confidence": 0.83,
-        "timestamp": "2026-05-15T09:24:21.892348"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "WhatsApp",
-        "is_fake": true,
-        "confidence": 0.75,
-        "timestamp": "2026-05-15T09:24:26.894796"
-    },
-    {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "New York Times",
-        "is_fake": false,
-        "confidence": 0.92,
-        "timestamp": "2026-05-15T09:24:31.895640"
-    },
-    {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "Facebook",
-        "is_fake": true,
-        "confidence": 0.73,
-        "timestamp": "2026-05-15T09:24:36.895982"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "El Mundo",
-        "is_fake": false,
-        "confidence": 0.83,
-        "timestamp": "2026-05-15T09:24:41.899152"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "WhatsApp",
-        "is_fake": false,
-        "confidence": 0.77,
-        "timestamp": "2026-05-15T09:24:46.900883"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "Facebook",
-        "is_fake": true,
-        "confidence": 0.74,
-        "timestamp": "2026-05-15T09:24:51.906093"
-    },
-    {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "El Mundo",
-        "is_fake": false,
-        "confidence": 0.8,
-        "timestamp": "2026-05-15T09:24:56.909648"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "WhatsApp",
-        "is_fake": false,
-        "confidence": 0.88,
-        "timestamp": "2026-05-15T09:25:01.911317"
-    },
-    {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "New York Times",
-        "is_fake": false,
-        "confidence": 0.71,
-        "timestamp": "2026-05-15T09:25:06.912297"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "New York Times",
-        "is_fake": false,
-        "confidence": 0.96,
-        "timestamp": "2026-05-15T09:25:11.915912"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "New York Times",
-        "is_fake": true,
-        "confidence": 0.78,
-        "timestamp": "2026-05-15T09:25:16.916434"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "Twitter",
-        "is_fake": false,
-        "confidence": 0.9,
-        "timestamp": "2026-05-15T09:25:21.922081"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "Twitter",
-        "is_fake": true,
-        "confidence": 0.79,
-        "timestamp": "2026-05-15T09:25:26.923542"
-    },
-    {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "New York Times",
-        "is_fake": false,
-        "confidence": 0.72,
-        "timestamp": "2026-05-15T09:25:31.927122"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "Twitter",
-        "is_fake": true,
-        "confidence": 0.71,
-        "timestamp": "2026-05-15T09:25:36.927162"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "El Mundo",
-        "is_fake": false,
-        "confidence": 0.9,
-        "timestamp": "2026-05-15T09:25:41.932806"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "Facebook",
-        "is_fake": false,
-        "confidence": 0.73,
-        "timestamp": "2026-05-15T09:25:46.933324"
-    },
-    {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "WhatsApp",
-        "is_fake": true,
-        "confidence": 0.88,
-        "timestamp": "2026-05-15T09:25:51.938553"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "Twitter",
-        "is_fake": true,
-        "confidence": 0.79,
-        "timestamp": "2026-05-15T09:25:56.939121"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "Facebook",
-        "is_fake": true,
-        "confidence": 0.88,
-        "timestamp": "2026-05-15T09:26:01.943972"
-    },
-    {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "New York Times",
-        "is_fake": true,
-        "confidence": 0.89,
-        "timestamp": "2026-05-15T09:26:06.944198"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "Twitter",
-        "is_fake": true,
-        "confidence": 0.85,
-        "timestamp": "2026-05-15T09:26:11.949212"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "El Mundo",
-        "is_fake": false,
-        "confidence": 0.91,
-        "timestamp": "2026-05-15T09:26:16.950276"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "Twitter",
-        "is_fake": false,
-        "confidence": 0.75,
-        "timestamp": "2026-05-15T09:26:21.954469"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "WhatsApp",
-        "is_fake": false,
-        "confidence": 0.88,
-        "timestamp": "2026-05-15T09:26:26.955059"
-    },
-    {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "Twitter",
-        "is_fake": false,
-        "confidence": 0.88,
-        "timestamp": "2026-05-15T09:26:31.960414"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "WhatsApp",
-        "is_fake": true,
-        "confidence": 0.96,
-        "timestamp": "2026-05-15T09:26:36.960511"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "WhatsApp",
-        "is_fake": true,
-        "confidence": 0.79,
-        "timestamp": "2026-05-15T09:26:41.965654"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "New York Times",
-        "is_fake": false,
-        "confidence": 0.88,
-        "timestamp": "2026-05-15T09:26:46.966687"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "WhatsApp",
-        "is_fake": false,
-        "confidence": 0.98,
-        "timestamp": "2026-05-15T09:26:51.970940"
-    },
-    {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "New York Times",
-        "is_fake": true,
-        "confidence": 0.77,
-        "timestamp": "2026-05-15T09:26:56.971893"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "WhatsApp",
-        "is_fake": false,
-        "confidence": 0.87,
-        "timestamp": "2026-05-15T09:27:01.976187"
-    },
-    {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "WhatsApp",
-        "is_fake": true,
-        "confidence": 0.86,
-        "timestamp": "2026-05-15T09:27:06.976732"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "Facebook",
-        "is_fake": false,
-        "confidence": 0.84,
-        "timestamp": "2026-05-15T09:27:11.981521"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "El Mundo",
-        "is_fake": true,
-        "confidence": 0.82,
-        "timestamp": "2026-05-15T09:27:16.982393"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "New York Times",
-        "is_fake": true,
-        "confidence": 0.84,
-        "timestamp": "2026-05-15T09:27:21.986424"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "WhatsApp",
-        "is_fake": false,
-        "confidence": 0.89,
-        "timestamp": "2026-05-15T09:27:26.987127"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "Facebook",
-        "is_fake": false,
-        "confidence": 0.82,
-        "timestamp": "2026-05-15T09:27:31.992183"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "New York Times",
-        "is_fake": false,
-        "confidence": 0.98,
-        "timestamp": "2026-05-15T09:27:36.992313"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "WhatsApp",
-        "is_fake": false,
-        "confidence": 0.8,
-        "timestamp": "2026-05-15T09:27:41.997458"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "WhatsApp",
-        "is_fake": false,
-        "confidence": 0.76,
-        "timestamp": "2026-05-15T09:27:46.998047"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "El Mundo",
-        "is_fake": true,
-        "confidence": 0.94,
-        "timestamp": "2026-05-15T09:27:52.002477"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "El Mundo",
-        "is_fake": true,
-        "confidence": 0.9,
-        "timestamp": "2026-05-15T09:27:57.003109"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "New York Times",
-        "is_fake": true,
-        "confidence": 0.74,
-        "timestamp": "2026-05-15T09:28:02.009091"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "WhatsApp",
-        "is_fake": true,
-        "confidence": 0.97,
-        "timestamp": "2026-05-15T09:28:07.010177"
-    },
-    {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "Twitter",
-        "is_fake": true,
-        "confidence": 0.92,
-        "timestamp": "2026-05-15T09:28:12.010534"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "Facebook",
-        "is_fake": true,
-        "confidence": 0.85,
-        "timestamp": "2026-05-15T09:28:17.013256"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "El Mundo",
-        "is_fake": false,
-        "confidence": 0.92,
-        "timestamp": "2026-05-15T09:28:22.019231"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "Twitter",
-        "is_fake": false,
-        "confidence": 0.95,
-        "timestamp": "2026-05-15T09:28:27.019939"
-    },
-    {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "New York Times",
-        "is_fake": false,
-        "confidence": 0.96,
-        "timestamp": "2026-05-15T09:28:32.025074"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "Twitter",
+        "id": 114,
+        "title": "Sean Hannity Barely Spends 6 Seconds On Last Night\u2019s Drubbing \u2013 Revisits Trump \u2018Victory\u2019 Instead",
+        "source": "unknown",
         "is_fake": true,
         "confidence": 0.81,
-        "timestamp": "2026-05-15T09:28:37.025811"
+        "timestamp": "2026-05-15T17:35:51.591297"
     },
     {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "Facebook",
+        "id": 115,
+        "title": "Maine Voters Tell Trump To Go F*ck Himself, Expand Medicaid Through Obamacare",
+        "source": "unknown",
         "is_fake": false,
-        "confidence": 0.98,
-        "timestamp": "2026-05-15T09:28:42.026230"
+        "confidence": 0.61,
+        "timestamp": "2026-05-15T17:35:54.594975"
     },
     {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "Facebook",
-        "is_fake": true,
-        "confidence": 0.8,
-        "timestamp": "2026-05-15T09:28:47.028204"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "WhatsApp",
+        "id": 116,
+        "title": "WATCH: Rick Santorum Torches Trump For Not Taking Responsibility For Electoral Bloodbath",
+        "source": "unknown",
         "is_fake": false,
-        "confidence": 0.98,
-        "timestamp": "2026-05-15T09:28:52.033868"
+        "confidence": 0.56,
+        "timestamp": "2026-05-15T17:35:57.596604"
     },
     {
-        "title": "Descubren agua en Marte",
-        "source": "WhatsApp",
+        "id": 117,
+        "title": "Trump Seething After Humiliating Virginia Elections, Throws Ed Gillespie Under The Bus",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.61,
+        "timestamp": "2026-05-15T17:36:00.597107"
+    },
+    {
+        "id": 118,
+        "title": "The Resistance Just Gave Trump A Huge F**CK YOU On Election Night",
+        "source": "unknown",
         "is_fake": false,
-        "confidence": 0.81,
-        "timestamp": "2026-05-15T09:28:57.035128"
+        "confidence": 0.57,
+        "timestamp": "2026-05-15T17:36:03.599982"
     },
     {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "New York Times",
+        "id": 119,
+        "title": "Trump\u2019s Justice Dept. Realizes Prosecuting Woman For Laughing Is Stupid \u2013 Drops Case Entirely",
+        "source": "unknown",
         "is_fake": true,
-        "confidence": 0.9,
-        "timestamp": "2026-05-15T09:29:02.040256"
+        "confidence": 0.6,
+        "timestamp": "2026-05-15T17:36:06.603853"
     },
     {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "Facebook",
-        "is_fake": true,
-        "confidence": 0.78,
-        "timestamp": "2026-05-15T09:29:07.041759"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "Facebook",
-        "is_fake": true,
-        "confidence": 0.98,
-        "timestamp": "2026-05-15T09:29:12.042993"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "El Mundo",
-        "is_fake": false,
-        "confidence": 0.9,
-        "timestamp": "2026-05-15T09:29:17.043632"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "New York Times",
-        "is_fake": true,
-        "confidence": 0.77,
-        "timestamp": "2026-05-15T09:29:22.049469"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "El Mundo",
-        "is_fake": false,
-        "confidence": 0.82,
-        "timestamp": "2026-05-15T09:29:27.050544"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "Twitter",
-        "is_fake": true,
-        "confidence": 0.97,
-        "timestamp": "2026-05-15T09:29:32.055573"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "New York Times",
-        "is_fake": true,
-        "confidence": 0.75,
-        "timestamp": "2026-05-15T09:29:37.056972"
-    },
-    {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "El Mundo",
+        "id": 120,
+        "title": "Trump Jr. Goes Full Dumba** On Twitter By Promoting Wrong Day Of Virginia Election",
+        "source": "unknown",
         "is_fake": true,
         "confidence": 0.83,
-        "timestamp": "2026-05-15T09:29:42.058859"
+        "timestamp": "2026-05-15T17:36:09.605900"
     },
     {
-        "title": "Descubren agua en Marte",
-        "source": "WhatsApp",
-        "is_fake": false,
-        "confidence": 0.89,
-        "timestamp": "2026-05-15T09:29:47.060488"
-    },
-    {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "WhatsApp",
+        "id": 121,
+        "title": "Trump Just Openly Called For A Third World War (VIDEO)",
+        "source": "unknown",
         "is_fake": true,
-        "confidence": 0.95,
-        "timestamp": "2026-05-15T09:29:52.065574"
+        "confidence": 0.73,
+        "timestamp": "2026-05-15T17:36:13.820516"
     },
     {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "El Mundo",
-        "is_fake": false,
-        "confidence": 0.97,
-        "timestamp": "2026-05-15T09:29:57.065975"
+        "id": 122,
+        "title": "OOPS: Trump Agrees That People Like Him Should Be Treated \u2018Harshly\u2019 For Milking Their Country",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.71,
+        "timestamp": "2026-05-15T17:36:16.821744"
     },
     {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "New York Times",
-        "is_fake": false,
-        "confidence": 0.92,
-        "timestamp": "2026-05-15T09:30:02.071964"
+        "id": 123,
+        "title": "Miss Texas Gave A VERY Unexpected Answer When Asked About Trump, And Republicans Are Furious",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.63,
+        "timestamp": "2026-05-15T17:36:19.828242"
     },
     {
-        "title": "El caf\u00e9 prolonga la vida, seg\u00fan nuevo estudio",
-        "source": "El Mundo",
+        "id": 124,
+        "title": "Trump Is Trying To Make Facebook Give Him Personal Info Of People Who Criticize Him",
+        "source": "unknown",
+        "is_fake": true,
+        "confidence": 0.6,
+        "timestamp": "2026-05-15T17:36:22.830204"
+    },
+    {
+        "id": 125,
+        "title": "Multiple Witnesses Confirm: The Pee Pee Tapes Are Real",
+        "source": "unknown",
         "is_fake": true,
         "confidence": 0.75,
-        "timestamp": "2026-05-15T09:30:07.072424"
+        "timestamp": "2026-05-15T17:36:25.835062"
     },
     {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "Twitter",
+        "id": 126,
+        "title": "Fox News Just Completed Transformation Into Safe Space For Fragile, Snowflakey Donald Trump",
+        "source": "unknown",
         "is_fake": true,
-        "confidence": 0.78,
-        "timestamp": "2026-05-15T09:30:12.075080"
+        "confidence": 0.58,
+        "timestamp": "2026-05-15T17:36:28.836481"
     },
     {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "WhatsApp",
-        "is_fake": false,
-        "confidence": 0.72,
-        "timestamp": "2026-05-15T09:30:17.076457"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "Facebook",
+        "id": 127,
+        "title": "Trump Tells Japanese Diplomats He Never Knew There Were So Many Countries In The World",
+        "source": "unknown",
         "is_fake": true,
-        "confidence": 0.81,
-        "timestamp": "2026-05-15T09:30:22.081722"
+        "confidence": 0.66,
+        "timestamp": "2026-05-15T17:36:31.838354"
     },
     {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "New York Times",
-        "is_fake": false,
-        "confidence": 0.93,
-        "timestamp": "2026-05-15T09:30:27.082710"
-    },
-    {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "El Mundo",
+        "id": 128,
+        "title": "Latest From Conservatives: God Was Answering Victims\u2019 Prayers By Letting Them Get Shot",
+        "source": "unknown",
         "is_fake": true,
-        "confidence": 0.82,
-        "timestamp": "2026-05-15T09:30:32.087763"
+        "confidence": 0.58,
+        "timestamp": "2026-05-15T17:36:34.839738"
     },
     {
-        "title": "Descubren agua en Marte",
-        "source": "Facebook",
+        "id": 129,
+        "title": "University Of Texas Police Kick Humiliated Nazis Off Campus Before They Could Start Trouble",
+        "source": "unknown",
         "is_fake": false,
-        "confidence": 0.9,
-        "timestamp": "2026-05-15T09:30:37.088708"
+        "confidence": 0.55,
+        "timestamp": "2026-05-15T17:36:37.840440"
     },
     {
-        "title": "La inteligencia artificial reemplazar\u00e1 a los programadores",
-        "source": "New York Times",
-        "is_fake": false,
-        "confidence": 0.91,
-        "timestamp": "2026-05-15T09:30:42.092985"
-    },
-    {
-        "title": "Descubren agua en Marte",
-        "source": "Twitter",
+        "id": 130,
+        "title": "Russian Lawyer Drops Bomb On Donald Trump Jr.; Alleges Direct Pay-To-Play Attempt",
+        "source": "unknown",
         "is_fake": true,
-        "confidence": 0.84,
-        "timestamp": "2026-05-15T09:30:47.093383"
-    },
-    {
-        "title": "Nueva subida de impuestos anunciada",
-        "source": "WhatsApp",
-        "is_fake": false,
-        "confidence": 0.85,
-        "timestamp": "2026-05-15T09:30:52.098254"
-    },
-    {
-        "title": "Im\u00e1genes exclusivas del nuevo iPhone 20",
-        "source": "El Mundo",
-        "is_fake": false,
-        "confidence": 0.83,
-        "timestamp": "2026-05-15T09:30:57.099045"
+        "confidence": 0.62,
+        "timestamp": "2026-05-15T17:36:40.841306"
     }
 ]
