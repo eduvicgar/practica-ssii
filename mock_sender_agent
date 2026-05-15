@@ -1,0 +1,72 @@
+import json
+import joblib
+from datetime import datetime
+
+from pade.core.agent import Agent
+from pade.acl.messages import ACLMessage
+from pade.misc.utility import display_message
+
+
+class MockSenderAgent(Agent):
+
+    def __init__(self, aid):
+        super().__init__(aid=aid, debug=False)
+        self.model = joblib.load("./model/fake_news_model.joblib")
+
+    def react(self, message):
+
+        super().react(message)
+
+
+        if message.ontology != "fake-news-detection":
+            return
+
+        if message.performative != ACLMessage.INFORM:
+            return
+
+        try:
+
+            news = json.loads(message.content)
+
+            title = str(news.get("title", ""))
+            text = str(news.get("text", ""))
+
+            model_input = title + " " + text
+
+
+            pred = self.model.predict([model_input])[0]
+
+            if hasattr(self.model, "predict_proba"):
+                confidence = float(max(self.model.predict_proba([model_input])[0]))
+            else:
+                confidence = 0.5
+
+            result = {
+                "id": news.get("id"),
+                "title": title,
+                "source": news.get("source", "unknown"),
+                "is_fake": bool(pred),
+                "confidence": round(confidence, 2),
+                "timestamp": datetime.now().isoformat()
+            }
+
+
+            reply = ACLMessage(ACLMessage.CONFIRM)
+            reply.set_ontology("fake-news-detection")
+            reply.set_language("JSON")
+            reply.set_conversation_id(message.conversation_id)
+            reply.set_content(json.dumps(result))
+
+            reply.add_receiver(message.sender)
+
+            reply.add_receiver(self.gui_agent)
+
+            self.send(reply)
+
+            display_message(
+                self.aid.name,
+                f"[CLASIFICADO → GUI] ID={news.get('id')} fake={bool(pred)}"
+            )
+
+        except Exception as e:
+            display_message(self.aid.name, f"[ERROR] {e}")
